@@ -26,7 +26,7 @@ https://www.dariusmora.com/
 
 ---
 
-**Summary: Fundamental Pillars of ASO (ASL)**
+# Fundamental Pillars of ASO (ASL)
 
 In this video, the key elements of App Store Optimization (often mistakenly referred to as ASL in the text) were discussed. The four central pillars of ASO are:
 
@@ -87,10 +87,12 @@ Remember, the app icon is often the first visual touchpoint users have with your
 
 ---
 
+# Successful Screenshots: A Visual Walkthrough
+
+_Interesting Facts:_
+
 - People only spend 7 seconds on your appstore before they either move on to another app or install the app => You only have 7 seconds to capture audience.
 - Only 9% of people will actually scroll through all of the screenshots => Focus on the first three screenshots
-
-**Successful Screenshots: A Visual Walkthrough**
 
 Alright, let's dive into some examples of successful screenshots from both the App Store (iOS) and the Play Store (Android). By analyzing these examples, you'll get a better grasp of the principles we discussed earlier.
 
@@ -149,7 +151,7 @@ Grab a coffee, dive deep into crafting those screenshots, and remember, it's the
 
 ---
 
-**Breaking Down the Play Store Screenshots:**
+# Breaking Down the Play Store Screenshots
 
 To summarize the exploration of the Google Play Store, let's break down the observations made on app and game screenshots:
 
