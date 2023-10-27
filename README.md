@@ -6,7 +6,7 @@ https://www.dariusmora.com/
 
 ---
 
-**Summary: Differences between SEO and ASO**
+# Differences between SEO and ASO\*\*
 
 1. **User Behavior:**
 
