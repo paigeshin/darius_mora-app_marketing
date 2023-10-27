@@ -630,6 +630,15 @@ The short description serves as a brief, yet impactful, introduction to what you
 
 # The ideal Long Description (Android)
 
+- Don't use the most important keywords in there!
+
+**Stucture**
+
+- Testimonials
+- List of Features & Benefits
+- Subscription Info
+- Benefits of Premium Product
+
 **The Power of Android's Long Description**
 
 Welcome back! Today, we focus on one of the most extensive metadata elements for your app on the Play Store: the long description. While often overlooked, this section has tremendous potential, both for search optimization and for communicating with potential users.
