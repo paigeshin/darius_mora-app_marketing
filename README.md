@@ -22,7 +22,7 @@ https://www.dariusmora.com/
    - SEO: Primarily text-based, with search results displaying links and descriptions.
    - ASO: Offers a mix of text and visuals, including screenshots, videos, and other graphic elements.
 
-## These differences emphasize the unique considerations needed for optimizing website content (SEO) versus app store content (ASO). The subsequent video will dive into the foundational elements of ASO.
+These differences emphasize the unique considerations needed for optimizing website content (SEO) versus app store content (ASO). The subsequent video will dive into the foundational elements of ASO.
 
 ---
 
