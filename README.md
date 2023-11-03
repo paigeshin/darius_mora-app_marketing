@@ -17,6 +17,8 @@ https://www.dariusmora.com/
 - High Quality Screenshots
 - Writing a description strategy: testimonials, feature lists, and clear subscription information enhances the descriptio
 
+**Don't put some keywords like `app`. It's useless**
+
 **ASO Ranking Factors**
 
 1. Download Velocity
@@ -94,6 +96,24 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 **7. Continuous Optimization and Testing:**
 
 - Regularly update and optimize your keywords, adapting to changing trends and competitive landscapes.
+
+**How to find the perfect keyword for your app or game**
+
+- Relevant, Volume around 10 ~ 40
+- **Start from Low Difficulty Keywords when you don't put enough budget for your app**
+- Makeing a title and a subtitle is not just about the algorithm, your title should make sense for people who read it
+- Place low competition keywords at the beginning of your keyword fields
+- For Description, copy all the keywords and give it to AI
+
+**iOS Screenshot Test**
+
+- Use only 1 treatment to extract the correct data
+- Traffic Proportion, 50%
+- One Localization at a time
+- Estimate your test duration
+  - Select options as you wish
+    - 100% improvement
+- Run the test at least for 7 days
 
 ---
 
@@ -1062,6 +1082,8 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 
 - Regularly update and optimize your keywords, adapting to changing trends and competitive landscapes.
 
+**Don't put some keywords like `app`. It's useless**
+
 **Conclusion and Takeaway**:
 
 Effective keyword selection is a dynamic and iterative process, grounded in strategic analysis, continuous optimization, and a profound understanding of your app’s unique offerings and user needs. By honing your keyword selection strategies, you set the stage for enhanced visibility, discoverability, and success in the competitive app marketplace.
@@ -1071,4 +1093,96 @@ Effective keyword selection is a dynamic and iterative process, grounded in stra
 # How to find the perfect keyword for your app or game
 
 - Relevant, Volume around 10 ~ 40
-- Start from Low Difficulty Keywords
+- **Start from Low Difficulty Keywords when you don't put enough budget for your app**
+- Makeing a title and a subtitle is not just about the algorithm, your title should make sense for people who read it
+- Place low competition keywords at the beginning of your keyword fields
+- For Description, copy all the keywords and give it to AI
+
+**Mastering Keyword Strategy: A Three-Step Approach to ASO**
+
+Congratulations on completing another essential lesson on App Store Optimization (ASO)! This walkthrough has armed you with a strategic, three-step approach to keyword analysis and selection to enhance your app’s visibility and ranking on the app stores. Here’s a concise summary:
+
+**1. Keyword Analysis:**
+
+- Involves researching and identifying a broad array of relevant keywords, utilizing third-party tools like AppTweak for comprehensive insights.
+
+**2. Selection of Top Keywords:**
+
+- Filtering through the analyzed keywords to identify and select the top 20 that align most closely with your app and have a balance of search volume and competition.
+
+**3. Creating a Keyword Sequence:**
+
+- Strategically incorporating the selected keywords within various metadata elements such as the title, subtitle, and keyword field.
+- Prioritizing keywords based on relevance and impact, aligning them with the app’s core offerings and potential user queries.
+
+**4. Effective Use of Metadata Fields:**
+
+- Utilize each metadata field effectively, following character limitations and ensuring that the content is both algorithm and user-friendly.
+
+**5. Continuous Testing and Optimization:**
+
+- Embrace a culture of continuous improvement, consistently testing, and optimizing keyword strategies to adapt to evolving trends and competitive landscapes.
+
+**6. Leveraging AI and Automation:**
+
+- Consider leveraging AI tools to streamline and enhance the keyword selection and description writing process, ensuring relevance and optimization.
+
+**Conclusion and What’s Next**:
+
+Having mastered the technique of keyword analysis and selection, you’re well-equipped to optimize your app’s visibility and improve its ranking on the app stores. The knowledge acquired acts as a cornerstone in your ASO strategy, setting a solid foundation for success. Ready to move forward? The subsequent lessons will continue to unravel advanced strategies and insights to further strengthen your ASO mastery! 🚀
+
+---
+
+# Use App Store Version Experiments to become #1(iOS)
+
+**Use App Store Version Experiments**
+
+- Use only 1 treatment to extract the correct data
+- Traffic Proportion, 50%
+- One Localization at a time
+- Estimate your test duration
+  - Select options as you wish
+    - 100% improvement
+- Run the test at least for 7 days
+
+**App Store Version Experiments: Guiding Your ASO Strategy**
+
+Welcome to a pivotal guide on conducting App Store version experiments, a powerful tactic in refining your App Store Optimization (ASO) strategy. This walkthrough is specifically tailored for iOS apps, guiding you through a structured approach to A/B testing various elements of your app store presentation. Here’s a synthesized view of the insights shared:
+
+**1. **The Essence of Version Experiments\*\*:
+
+- A/B tests or version experiments allow you to showcase varied versions of your app store elements, like screenshots, to different users, enabling the identification of the most effective presentation.
+
+**2. **The Toolset\*\*:
+
+- Utilizing platforms like AppTweak for conducting and analyzing these experiments is recommended. Such tools facilitate a streamlined approach to A/B testing and results interpretation.
+
+**3. **Key Steps for Execution\*\*:
+
+- **Initiation**: Begin by choosing aspects like screenshots for experimentation, establishing clear versions or treatments for the test.
+- **Allocation**: Divide your audience, ensuring each segment experiences a different version of the chosen element.
+- **Duration and Measurement**: Run the experiment for a considerable period, ensuring you gather substantial data for accurate analysis and conclusions.
+
+**4. **Keywords and Phrases in Focus\*\*:
+
+- When running experiments, focus on the most crucial keywords and phrases. Their placement, prominence, and frequency can be varied across different versions to understand their impact.
+
+**5. **Customization and Adaptability\*\*:
+
+- Adapt your strategies based on geographical or platform-specific variations. Customizing your approach to resonate with the specific preferences and behaviors of diverse user groups enhances the experiment's effectiveness.
+
+**6. **Interpreting Results\*\*:
+
+- Ensure the experiment runs long enough to gather meaningful data. Prioritize statistical significance and actionable insights in your interpretation, guiding informed decisions.
+
+**7. **Continuous Improvement\*\*:
+
+- Adopt a mindset of constant refinement. Regular iterations, experiments, and optimizations should be integral to your ASO strategy, ensuring it remains aligned with evolving user preferences and competitive landscapes.
+
+**In Conclusion**:
+
+Version experiments represent a powerful lever in your ASO strategy, enabling informed improvements and enhancements to your app store presentation. Armed with the insights from these experiments, you are better positioned to optimize your app's visibility, user attraction, and overall success. Happy experimenting! 🚀
+
+---
+
+# Use Play Store Experiments to become #1 (Android)
