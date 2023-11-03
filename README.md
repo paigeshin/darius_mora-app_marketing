@@ -19,7 +19,7 @@ https://www.dariusmora.com/
 
 **Don't put some keywords like `app`. It's useless**
 
-**ASO Ranking Factors**
+### ASO Ranking Factors
 
 1. Download Velocity
    - This is overall how many installs your app is getting
@@ -37,7 +37,7 @@ https://www.dariusmora.com/
 5. Product Retention
 6. Revenue
 
-**ASO Algorithm Essentials**
+### ASO Algorithm Essentials
 
 - **Download Velocity**: Represents the immediacy of your app downloads.
 - **Keyword-Specific Conversion Rate**: Denotes the conversion success of each keyword.
@@ -46,11 +46,7 @@ https://www.dariusmora.com/
 - **Retention Rates**: Demonstrates sustained user interest and engagement with your app.
 - **Revenue**: A measure of profitability that signifies the app’s market success.
 
-**Rank #1 for some keyword**
-
-- How much competition for specific keywords
-
-**[Five Steps for Ranking #1 in your target keywords]**
+### [Five Steps for Ranking #1 in your target keywords]
 
 1. Fantastic product: Build a fantastic app that people love
    - Don’t invest time until you build a product that people love
@@ -59,7 +55,7 @@ https://www.dariusmora.com/
 4. Ask for reviews
 5. Great VisualsL Top Notch Icons, Screenshots, Videos ⇒ A&B Test
 
-**Strategies for Selecting Keywords: A Comprehensive Guide**
+### Strategies for Selecting Keywords: A Comprehensive Guide
 
 In this lesson, a streamlined strategy for selecting powerful keywords to optimize App Store visibility was unveiled. Here’s a summative guide to the insights shared:
 
@@ -97,7 +93,7 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 
 - Regularly update and optimize your keywords, adapting to changing trends and competitive landscapes.
 
-**How to find the perfect keyword for your app or game**
+### How to find the perfect keyword for your app or game
 
 - Relevant, Volume around 10 ~ 40
 - **Start from Low Difficulty Keywords when you don't put enough budget for your app**
@@ -105,7 +101,7 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 - Place low competition keywords at the beginning of your keyword fields
 - For Description, copy all the keywords and give it to AI
 
-**iOS Screenshot Test**
+### iOS Screenshot Test
 
 - Use only 1 treatment to extract the correct data
 - Traffic Proportion, 50%
@@ -117,7 +113,7 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 
 ---
 
-# Differences between SEO and ASO\*\*
+# Differences between SEO and ASO
 
 1. **User Behavior:**
 
@@ -1186,3 +1182,43 @@ Version experiments represent a powerful lever in your ASO strategy, enabling in
 ---
 
 # Use Play Store Experiments to become #1 (Android)
+
+**Play Store Experiments: Unveiling the Mastery of A/B Testing for Android**
+
+Navigating through the waters of the Play Store involves a strategic approach to A/B testing and experimentation. This tutorial unveils the step-by-step process of conducting effective Play Store experiments for your Android app. Here's a quick guide to the key takeaways:
+
+**1. **Experiment Objectives\*\*:
+
+- Conducting continual experiments to identify the most effective app presentation elements such as icons and screenshots.
+
+**2. **Tools and Platforms\*\*:
+
+- Utilize platforms like Google Play Console, ensuring a streamlined process for setting up, monitoring, and analyzing the results of the experiments.
+
+**3. **The Process Unfolded\*\*:
+
+- Define the experiment, selecting aspects like app icons for testing.
+- Allocate traffic, ensuring each version receives substantial user exposure for reliable insights.
+- Specify the duration, allowing the experiment to run long enough to gather meaningful data.
+
+**4. **Key Metrics and Decisions\*\*:
+
+- Focus on metrics such as install rates and user retention to discern the impact of different variations in the experiment.
+- Make informed decisions, choosing elements that exhibit enhanced performance and user engagement.
+
+**5. **Experiment Elements\*\*:
+
+- Icons, screenshots, descriptions, and other app store listing elements can be subject to these experiments, identifying their individual and collective impact on user acquisition.
+
+**6. **Customization and Adaptability\*\*:
+
+- Customize the elements tested based on specific goals, and adapt the experimentation strategies based on preliminary findings and evolving objectives.
+
+**7. **Best Practices for Optimization\*\*:
+
+- Consistently test and optimize various elements, maintaining a balance between algorithmic preferences and user appeal.
+- Evaluate and iterate the experiments, ensuring that they align with user expectations and market trends.
+
+**Conclusion and Strategic Advancements**:
+
+Embarking on Play Store experiments arms you with actionable insights, fostering informed decisions to optimize your app’s presence and performance on the store. As you navigate through the iterations and enhancements, this guide acts as a roadmap, steering your strategies toward improved visibility, user acquisition, and overall success. Happy experimenting! 🚀
