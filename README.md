@@ -8,6 +8,95 @@ https://www.dariusmora.com/
 
 ---
 
+# Key Information
+
+## Summary
+
+- Order of keywords matter
+- Don't satisfy with one app icon, always execute A/B Test
+- High Quality Screenshots
+- Writing a description strategy: testimonials, feature lists, and clear subscription information enhances the descriptio
+
+**ASO Ranking Factors**
+
+1. Download Velocity
+   - This is overall how many installs your app is getting
+   - Very dynamic
+   - If you got many downloads yesterday, your rank for the keyword will be high, but if you get a fewer downloads today, your rank for the keyword will be dropped. ⇒ Very dynamic
+   - Updated twice a day
+2. Keyword Specific Conversion Rate
+   - This happens even if app doesn’t have keywords on the metadata.
+   - You don’t have to include a keyword in your metadata to rank for it but very high conversion rate.
+   - In order to get high conversion rate for a specific keyword, you need to understand what is the most important one, two, three, four or five keywords for your business.
+   - **Hyper Focus on a few important keywords when getting started**
+3. Ratings & Reviews
+4. Update Cycle ⇒ Update ASO
+   - Update ASO **once a month**
+5. Product Retention
+6. Revenue
+
+**ASO Algorithm Essentials**
+
+- **Download Velocity**: Represents the immediacy of your app downloads.
+- **Keyword-Specific Conversion Rate**: Denotes the conversion success of each keyword.
+- **Ratings and Reviews**: User feedback that substantiates the quality and usability of your app.
+- **Update Cycle**: Frequent updates signal an active and well-maintained app.
+- **Retention Rates**: Demonstrates sustained user interest and engagement with your app.
+- **Revenue**: A measure of profitability that signifies the app’s market success.
+
+**Rank #1 for some keyword**
+
+- How much competition for specific keywords
+
+**[Five Steps for Ranking #1 in your target keywords]**
+
+1. Fantastic product: Build a fantastic app that people love
+   - Don’t invest time until you build a product that people love
+2. Perfect Keywords: Pick top keywords for your app
+3. Update your app and ASO monthly
+4. Ask for reviews
+5. Great VisualsL Top Notch Icons, Screenshots, Videos ⇒ A&B Test
+
+**Strategies for Selecting Keywords: A Comprehensive Guide**
+
+In this lesson, a streamlined strategy for selecting powerful keywords to optimize App Store visibility was unveiled. Here’s a summative guide to the insights shared:
+
+**1. Selection Process:**
+
+- A methodical three-step process is essential:
+  - Analyzing relevant keywords
+  - Selecting the top 20 keywords
+  - Creating an appropriate sequence of keywords in metadata
+
+**2. Utilizing Third-Party Tools:**
+
+- Tools like AppTweak can enhance your keyword analysis process, enabling the extraction of strategic insights for keyword optimization.
+
+**3. Focused Keyword Analysis:**
+
+- Aim for keywords with high traffic and low competition.
+- Opt for long-tail keywords for a nuanced and targeted approach, especially if your app is new or has a smaller user base.
+
+**4. Understanding Keyword Characteristics:**
+
+- Analyze each keyword’s volume and competition to assess its potential effectiveness.
+- Consider relevance, ensuring each keyword genuinely aligns with your app’s functionality and user benefits.
+
+**5. Exploring a Range of Keywords:**
+
+- From generic to specific, broad to niche, explore a variety of keywords. Even those with lower traffic might prove valuable due to lower competition.
+
+**6. Localization and Customization:**
+
+- Tailor your keywords based on regional language preferences and usage trends.
+- Avoid using generic terms like "app" in your keywords unless they are part of a well-known phrase or search term.
+
+**7. Continuous Optimization and Testing:**
+
+- Regularly update and optimize your keywords, adapting to changing trends and competitive landscapes.
+
+---
+
 # Differences between SEO and ASO\*\*
 
 1. **User Behavior:**
@@ -677,3 +766,309 @@ While the long description might seem secondary given its length and the limited
 **Stay Tuned**: In our next segment, we will discuss the innovative ways AI can assist in crafting app descriptions that resonate and rank. Don't miss it!
 
 ---
+
+# Get AI to do the work for you
+
+**Leveraging AI for Crafting App Store Descriptions: A Modern Approach**
+
+Welcome to a modern twist in the world of App Store Optimization (ASO) – the utilization of Artificial Intelligence (AI) to craft compelling app store descriptions. In this lesson, the integration of AI technologies, specifically models like GPT-3, into the ASO workflow is explored. Here’s a breakdown:
+
+**1. Embracing the Ease of AI:**
+
+- With the capability of AI like GPT-3, creating extensive, engaging, and effective app descriptions has been made simpler.
+- It eliminates the daunting task of manually writing descriptions, especially given the vast character allowances (up to 4000 characters).
+
+**2. Guiding the AI:**
+
+- Your input is crucial. Providing the AI with sufficient, accurate, and clear information results in a more precise and useful output.
+- Defining features, functionalities, and the unique selling points of your app will guide the AI in generating a description that is both authentic and reflective of your app’s capabilities.
+
+**3. Art of Customization:**
+
+- The AI’s output often requires human touch for refinement and customization. Ensuring that essential keywords are appropriately placed and that the content aligns with your app's true capabilities is key.
+- Manually reviewing and editing the AI-generated content allows for a description that is both algorithm-friendly and user-engaging.
+
+**4. Future of ASO with AI:**
+
+- The realm of ASO is poised for transformation with advancements in AI. We might witness AI technologies that can fully optimize ASO processes, making manual interventions minimal.
+- While we wait for such advancements, blending AI’s capabilities with human insights seems to be the most effective strategy.
+
+**5. Concluding Thoughts:**
+AI has surfaced as a powerful ally in ASO, simplifying tasks and adding efficiency to the process. However, it's essential to wield this tool with a layer of personal insight and strategy to ensure that the final output aligns seamlessly with your app's vision and offerings.
+
+**Prompt**
+
+```shell
+Write a 1,000 characters of a mobile app that can be used as App Store Description on the App Store. This is a meditation app using soothing sounds to help people relax and fall asleep.
+```
+
+---
+
+# Keywords vs Keyphrases
+
+**Keywords and Key Phrases: Fine-Tuning Your ASO Strategy**
+
+In this lesson, we delve into the nuanced world of keywords and key phrases, essential tools in the arsenal of App Store Optimization (ASO). Understanding their distinct roles and interplay is vital in fine-tuning your app’s visibility and searchability. Let’s break down the core concepts:
+
+**1. Keywords: The Building Blocks**:
+
+- Keywords act as the fundamental building blocks. They are the individual words that users might input in their search queries.
+- Your app will be ranked based on each keyword independently, determining its visibility in the relevant search results.
+
+**2. Key Phrases: Combining Forces**:
+
+- Key phrases are combinations of keywords. They represent the strings of words users might type when searching for specific functionalities or app categories.
+- Your app’s ranking will also be determined based on these combined key phrases, offering another layer of visibility.
+
+**3. Practical Example**:
+
+- Consider an app focusing on "storage cleaner." The app will be ranked for both "storage" and "cleaner" as individual keywords.
+- Additionally, it will also secure a ranking for the combined key phrase "storage cleaner."
+
+**4. Strategic Considerations**:
+
+- Recognizing the dual role of keywords and key phrases allows for a more nuanced and strategic approach to ASO.
+- This acknowledgment helps in planning and optimizing keywords to improve the app’s visibility across a broader spectrum of search queries.
+
+**5. Looking Forward**:
+
+- As we advance to more sophisticated ASO strategies, understanding the interaction between keywords and key phrases will be instrumental.
+- Upcoming lessons will provide deeper insights, equipping you with the knowledge to become proficient in ASO practices.
+
+In conclusion, mastering the application and interplay of keywords and key phrases is crucial in optimizing your app for enhanced visibility and user discovery in the app stores. Armed with this understanding, you're better positioned to navigate the multifaceted landscape of ASO.
+
+---
+
+# Wrap Up
+
+**Congratulations: Moving Beyond the Basics of ASO**
+
+Bravo! You’ve successfully navigated through the fundamentals of App Store Optimization (ASO), gaining valuable insights into metadata, keywords, icons, screenshots, and more. Let’s recap your journey and peek into what’s coming next:
+
+**1. What You’ve Learned:**
+
+- **Titles and Subtitles**: Crafting compelling, keyword-optimized titles and subtitles.
+- **Keywords and Key Phrases**: Understanding their individual and combined impact on visibility.
+- **Visual Elements**: Icons and screenshots, and their role in user engagement.
+- **Utilizing AI**: Leveraging AI for writing and optimizing descriptions.
+- **Platform Specifics**: Distinguishing between the specifics for iOS and Android platforms.
+
+**2. The Journey Ahead**:
+
+- The next segment promises a deeper dive into more advanced and strategic aspects of ASO.
+- You'll explore keyword research, strategies to secure top rankings, and how to dominate your app's category.
+
+**3. Expanding Your Mastery**:
+
+- The upcoming lessons will equip you with practical strategies and tactics to elevate your app’s visibility, user acquisition, and overall success.
+- You'll learn how to implement sophisticated ASO strategies to optimize your app's performance and growth.
+
+**In Conclusion**:
+
+Having grounded yourself in the basics of ASO, you’re now poised to delve into more strategic and advanced aspects that can substantially impact your app’s success. The forthcoming section promises a wealth of knowledge aimed at positioning your app at the pinnacle of app store rankings, turning your well-optimized app into a thriving business. Let’s dive into the exciting journey ahead! 🚀
+
+---
+
+# How to Analyze Keywords
+
+**ASO Tools**
+
+- AppTweak
+
+**Important Factors**
+
+- Traffic: How many people search for this keyword
+- Competition: How many apps are trying to rank for this keyword
+  => Find High Traffic, Low Competition Keywords
+
+**Analyzing Keywords and Key Phrases: A Tactical Approach**
+
+In this lesson, we delved deep into the mechanics of keywords and key phrases within the context of App Store Optimization (ASO). Unpacking the subtleties, here are the essential takeaways:
+
+**1. Keywords and Key Phrases**:
+
+- Understanding that you rank for both individual keywords and their combinations or key phrases, allowing for a broader reach in search queries.
+
+**2. Third-Party Tools and AI**:
+
+- Utilizing tools like AppTweak for keyword analysis and AI for content generation. These tools streamline the process, guiding you to make informed keyword choices.
+
+**3. Metrics to Consider**:
+
+- **Volume (Traffic)**: Represents the search popularity of a keyword.
+- **Difficulty (Competition)**: Indicates how competitive a keyword is, guiding the strategic selection of keywords.
+
+**4. The Art of Selection**:
+
+- Choosing keywords involves a balancing act, aiming for those with high traffic yet low competition. Also, priority plays a role; more crucial keywords should be placed prominently.
+
+**5. Google Play Store's Unique Approach**:
+
+- In the realm of Android apps, specifics such as the title, short description, and long description, each with its character limits and strategic significance, are critical.
+
+**6. Best Practices for Crafting Descriptions**:
+
+- Leveraging user testimonials, feature lists, and clear subscription information enhances the description, making it informative and engaging.
+
+**In Conclusion**:
+
+The nuanced understanding of keywords, complemented by strategic implementation, can profoundly impact your app’s ASO. With insights into keyword metrics, thoughtful selection, and meticulous placement, you can optimize your app’s visibility, enhancing its presence on the app store.
+
+**Up Next**: The journey continues, exploring deeper strategies and insights to conquer the top spots in app store rankings and mastering the art and science of ASO. Stay tuned! 🚀
+
+---
+
+# ASO ranking factors you need to know
+
+**ASO Ranking Factors**
+
+1. Download Velocity
+   - This is overall how many installs your app is getting
+   - Very dynamic
+   - If you got many downloads yesterday, your rank for the keyword will be high, but if you get a fewer downloads today, your rank for the keyword will be dropped. ⇒ Very dynamic
+   - Updated twice a day
+2. Keyword Specific Conversion Rate
+   - This happens even if app doesn’t have keywords on the metadata.
+   - You don’t have to include a keyword in your metadata to rank for it but very high conversion rate.
+   - In order to get high conversion rate for a specific keyword, you need to understand what is the most important one, two, three, four or five keywords for your business.
+   - **Hyper Focus on a few important keywords when getting started**
+3. Ratings & Reviews
+4. Update Cycle ⇒ Update ASO
+   - Update ASO **once a month**
+5. Product Retention
+6. Revenue
+
+**Unlocking the Algorithm: Strategies to Boost Your Keyword Rankings**
+
+Congratulations on reaching a pivotal lesson where we demystify the algorithm and explore strategies to enhance your keyword rankings within the App Store Optimization (ASO) realm. Here's a breakdown of the crucial insights shared:
+
+**1. Keywords & Key Phrases**:
+
+- The foundation of ASO, where strategic selection and positioning can significantly enhance visibility and discoverability.
+
+**2. Algorithm Essentials**:
+
+- **Download Velocity**: Represents the immediacy of your app downloads.
+- **Keyword-Specific Conversion Rate**: Denotes the conversion success of each keyword.
+- **Ratings and Reviews**: User feedback that substantiates the quality and usability of your app.
+- **Update Cycle**: Frequent updates signal an active and well-maintained app.
+- **Retention Rates**: Demonstrates sustained user interest and engagement with your app.
+- **Revenue**: A measure of profitability that signifies the app’s market success.
+
+**3. Tool Utilization**:
+
+- Employing tools like AppTweak, coupled with AI technologies, facilitates insightful keyword analysis and strategic optimization.
+
+**4. Focusing on What You Can Control**:
+
+- Center your efforts on variables within your control, such as enhancing the user experience, ensuring regular updates, and refining keyword strategies.
+
+**5. The Imperative of a Good Product**:
+
+- At its core, the effectiveness of ASO strategies is immensely amplified when paired with a robust and user-friendly product.
+
+**6. Preparation for Advanced ASO Strategies**:
+
+- Armed with foundational knowledge, you are now ready to dive deeper into advanced ASO strategies, focusing on meticulous keyword research and strategic placements.
+
+**Conclusion & Next Steps**:
+
+Having navigated through the algorithm's fundamentals and key ASO strategies, you're now equipped with the knowledge to enhance your app’s visibility, discoverability, and overall success. The upcoming lessons will further refine your ASO expertise, focusing on a step-by-step approach to keyword selection and optimization. Get ready to unlock the full potential of your ASO strategies! 🚀
+
+---
+
+# How to be #1 on any keyword
+
+**The Pathway to Ranking Number One: A Five-Step Guide**
+
+Embarking on the journey to secure the top rank for a specific keyword in app stores involves a well-rounded strategy. This lesson unveils a structured, five-step process to optimize your app’s chances of achieving that coveted number one spot. Here’s a succinct breakdown:
+
+**1. Building a Quality App**:
+
+- Focus on developing an exceptional app that users adore. It should not only meet user needs but exceed their expectations, fostering a delightful user experience.
+
+**2. Keyword Selection**:
+
+- Identifying and choosing the most relevant and effective keywords is paramount. These keywords should resonate with your app’s functionality and user benefits.
+
+**3. Regular Updates**:
+
+- Commit to a consistent update cycle. Regular updates, featuring improvements, new features, or refinements, signal an actively maintained app.
+
+**4. Encourage Ratings and Reviews**:
+
+- Actively seek user feedback through ratings and reviews. Timing is crucial—ask at moments when users are most likely to feel satisfied or delighted by your app.
+
+**5. Visual Appeal**:
+
+- Ensure that your app’s icons, screenshots, and (if applicable) videos are of superior quality. They should effectively convey your app’s essence and attract users.
+
+**6. Continuous Improvement**:
+
+- Embrace a mindset of perpetual enhancement. Continually test and optimize various elements, adapting based on performance and feedback.
+
+**Conclusion**:
+
+Securing the number one ranking is a culmination of meticulous planning, strategic optimization, and continuous improvement. Each step in this guide is a pivotal milestone on your pathway to achieving top keyword rankings, driving visibility, and enhancing user acquisition. Ready to delve into the practicalities? Let’s dive deeper in the next lesson! 🚀
+
+---
+
+# How to find the perfect keyword for your app or game
+
+1. Analyze all relevant keywords
+   ⇒ Target Top 3
+   ⇒ High Traffic, Low Competition
+   ⇒ [Find Relevant Keywords]
+   ⇒ First, focus on long-tail keywords
+   ⇒ keyword like “app” doesn’t help
+2. Select your top 20 keywords
+3. Create the right sequence of keywords that you put into your metadata
+
+**Strategies for Selecting Keywords: A Comprehensive Guide**
+
+In this lesson, a streamlined strategy for selecting powerful keywords to optimize App Store visibility was unveiled. Here’s a summative guide to the insights shared:
+
+**1. Selection Process:**
+
+- A methodical three-step process is essential:
+  - Analyzing relevant keywords
+  - Selecting the top 20 keywords
+  - Creating an appropriate sequence of keywords in metadata
+
+**2. Utilizing Third-Party Tools:**
+
+- Tools like AppTweak can enhance your keyword analysis process, enabling the extraction of strategic insights for keyword optimization.
+
+**3. Focused Keyword Analysis:**
+
+- Aim for keywords with high traffic and low competition.
+- Opt for long-tail keywords for a nuanced and targeted approach, especially if your app is new or has a smaller user base.
+
+**4. Understanding Keyword Characteristics:**
+
+- Analyze each keyword’s volume and competition to assess its potential effectiveness.
+- Consider relevance, ensuring each keyword genuinely aligns with your app’s functionality and user benefits.
+
+**5. Exploring a Range of Keywords:**
+
+- From generic to specific, broad to niche, explore a variety of keywords. Even those with lower traffic might prove valuable due to lower competition.
+
+**6. Localization and Customization:**
+
+- Tailor your keywords based on regional language preferences and usage trends.
+- Avoid using generic terms like "app" in your keywords unless they are part of a well-known phrase or search term.
+
+**7. Continuous Optimization and Testing:**
+
+- Regularly update and optimize your keywords, adapting to changing trends and competitive landscapes.
+
+**Conclusion and Takeaway**:
+
+Effective keyword selection is a dynamic and iterative process, grounded in strategic analysis, continuous optimization, and a profound understanding of your app’s unique offerings and user needs. By honing your keyword selection strategies, you set the stage for enhanced visibility, discoverability, and success in the competitive app marketplace.
+
+---
+
+# How to find the perfect keyword for your app or game
+
+- Relevant, Volume around 10 ~ 40
+- Start from Low Difficulty Keywords
