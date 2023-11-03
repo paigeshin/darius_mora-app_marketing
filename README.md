@@ -10,14 +10,56 @@ https://www.dariusmora.com/
 
 # Key Information
 
+## Tips
+
+- Don't put some keywords like `app`. It's useless
+- Only once you've really saturated and fulfilled this one market, then start looking into other markets, at least 6 figures monthly revenue. (Localization)
+- If your 30% revenue comes from another country, then you can consider A/B Test for different price for each country. (Price Localization)
+- Read Competitor's App Review**Ratings and Reviews in App Store Optimization (ASO): Key Takeaways**
+
+Getting ratings and reviews is a crucial part of ASO because it gives potential users an insight into the experiences of others and can significantly impact an app’s download rate. Here’s a summary of strategies and best practices to effectively manage and improve your app’s ratings and reviews based on the video:
+
+### 1. **Understanding Ratings and Reviews**:
+
+- **User Perspectives**: Ratings and reviews often reflect user satisfaction and the value they derived from the app.
+- **Algorithmic Importance**: They are crucial from an ASO perspective, influencing an app's ranking on the app store.
+
+### 2. **Building a Good Product**:
+
+- **Foundational Requirement**: Having a fundamentally good product is essential before thinking about improving ratings and reviews.
+- **User Satisfaction**: A product that satisfies users will naturally garner better reviews and ratings.
+
+### 3. **Analyzing Competitor Reviews**:
+
+- **Research**: Read reviews of competitors’ apps to gain insights into user satisfaction and areas of improvement.
+- **Strategy Adaptation**: Adapt your strategy based on competitor reviews to make your app more appealing.
+
+### 4. **Strategically Soliciting Reviews**:
+
+- **Timing**: Ask for reviews when users have experienced value from the app to increase the likelihood of positive feedback.
+- **Frequency**: Avoid asking for reviews too frequently or too early in the user’s experience to prevent annoyance or negative reviews.
+- **Target User Base**: Target satisfied users and those who regularly engage with the app to improve the quality of feedback received.
+
+### 5. **Review Prompts**:
+
+- **Optimization**: Optimize the timing and style of review prompts to make them less intrusive and more effective.
+- **Engagement**: Engaging users at the right moment when they are most satisfied with the app’s service increases the chances of receiving positive reviews.
+
+### 6. **Interpreting and Utilizing Feedback**:
+
+- **Product Improvement**: Use reviews as a tool for continuous improvement, adapting the product based on user feedback.
+- **Negative Reviews**: Expect and accept negative reviews as part of the process, and use them constructively to enhance the app.
+
+### Conclusion:
+
+To boost ratings and reviews, focusing on delivering a quality product and engaging users at the right moments for feedback are key strategies. Regular analysis, strategic planning, and a user-focused approach are essential in leveraging reviews for ASO effectively. Remember, continuous improvement and adaptation based on user feedback are at the core of enhancing ratings and reviews. 🌟📱💡
+
 ## Summary
 
 - Order of keywords matter
 - Don't satisfy with one app icon, always execute A/B Test
 - High Quality Screenshots
 - Writing a description strategy: testimonials, feature lists, and clear subscription information enhances the descriptio
-
-**Don't put some keywords like `app`. It's useless**
 
 ### ASO Ranking Factors
 
@@ -110,6 +152,25 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
   - Select options as you wish
     - 100% improvement
 - Run the test at least for 7 days
+- Run only one test at any given time, keep the data clear
+
+# How to get featured and become the App or Game Of The Day
+
+- Tens of thousands of installs in a single day
+
+**Increase your chancess of getting featured**
+
+https://developer.apple.com/contact/app-store/promote/
+
+- High Quality App, No Crashing, Working almost perfectly
+- App built natively (Rumor)
+- Newly added OS features (For Example, Widget)
+- App must be regularly updated (Someone is working actively, like updating once a week)
+- Showcase high retention and high revenue
+- Beautiful experience, Great Design
+- Actual Conversion might be low
+- Small target like Germany, South Korea might be easier
+- Go on LinkedIn, find people with job titles "App Store Editor"
 
 ---
 
@@ -1222,3 +1283,184 @@ Navigating through the waters of the Play Store involves a strategic approach to
 **Conclusion and Strategic Advancements**:
 
 Embarking on Play Store experiments arms you with actionable insights, fostering informed decisions to optimize your app’s presence and performance on the store. As you navigate through the iterations and enhancements, this guide acts as a roadmap, steering your strategies toward improved visibility, user acquisition, and overall success. Happy experimenting! 🚀
+
+---
+
+# Summary of Section
+
+**Congratulations on Completing the ASO Fundamentals! 🎉**
+
+Through this transformative journey, you’ve unlocked the foundational elements and advanced strategies essential for mastering App Store Optimization (ASO). Armed with knowledge, insights, and practical tools, you’re now prepared to navigate the dynamic landscape of the app stores with confidence and precision. Here’s a quick recap of the pivotal milestones achieved:
+
+- **Keyword Mastery**: Learned the art and science of keyword analysis, selection, and optimization, ensuring your app resonates with user queries and search behaviors.
+
+- **Strategic Experiments**: Dived into the world of A/B testing, gaining actionable insights to continually refine and optimize your app’s presentation and user appeal.
+
+- **Holistic Optimization**: Explored various facets of ASO, from app icons and screenshots to metadata and descriptions, ensuring a comprehensive optimization strategy.
+
+**What’s Next on Your ASO Adventure?**
+
+- **Localization Strategies**: Dive into techniques for adapting and optimizing your app for diverse languages and global audiences.
+- **Ratings and Reviews**: Unlock strategies to enhance your app’s reputation through user feedback and improve its visibility and credibility.
+- **Getting Featured**: Explore opportunities to spotlight your app through features like "App of the Day," amplifying its visibility and user acquisition potential.
+- **Specialized Optimization**: Learn about optimization strategies specific to various platforms and devices, such as tablets and watch OS, and explore the potential of app clips and live events.
+
+**Embarking on Advanced ASO Mastery**:
+
+As you step into the next phase of your ASO mastery, get ready to explore deeper, more nuanced strategies and tactics that can propel your app to new heights of visibility, user engagement, and success. Each lesson is crafted to provide you with practical insights and actionable strategies to navigate the complexities of the app store ecosystems with strategic agility and expertise.
+
+Ready to conquer the app stores? Let’s dive in! 🚀
+
+---
+
+**Only once you've really saturated and fulfilled this one market, then start looking into other markets, at least 6 figures monthly revenue**
+
+# Localize your app or game and get more global installs
+
+**App Localization: A Strategic Approach**
+
+Localization in app development and marketing is a strategy involving the adaptation of an app, including its content and overall user experience, to meet the language, cultural and other requirements of a specific target market (locale). Here’s a breakdown based on the insightful video:
+
+### 1. **Types of Localization**:
+
+- **Pricing Localization**: Tailoring the pricing model to suit the economic conditions of different global markets.
+- **Language or Market Localization**: Modifying the app and its store presence to cater to non-English speakers and various markets.
+
+### 2. **Pricing Localization Strategy**:
+
+- **Pricing Flexibility**: Adjusting the app’s pricing to suit different markets can affect user acquisition and revenue.
+- **Testing and Adaptation**: Continuous A/B testing and adaptation of prices for different regions can be beneficial.
+
+### 3. **Language or Market Localization**:
+
+- **Human Factor**: It involves changing the app name, description, and other visible metadata to match the language preferences of the target audience.
+- **Customization**: The entire user interface and user experience, including the content within the app, might need to be customized for different languages or regions.
+
+### 4. **Considerations for Language Localization**:
+
+- **Volume of Non-English Users**: If there’s a significant volume of users or potential users who are non-English speakers, localization becomes crucial.
+- **Competitive Landscape**: Depending on the competitive landscape in various geographical regions, language localization might be a necessity.
+- **User Expectations**: Users might expect an app to be available in their native language, impacting user satisfaction and user experience.
+
+### 5. **Implementation Strategies**:
+
+- **App Store Presence**: The app’s presence, including its description, screenshots, and other metadata, should be localized in the app stores.
+- **Using Technology and AI**: Technologies, including AI, can be utilized for automating parts of the localization process.
+- **Continuous Testing**: Regular testing and iteration based on user feedback and performance data is essential for optimizing localization strategies.
+
+### 6. **Advanced Considerations**:
+
+- **Special Features and Sections**: Features like ‘What’s New’ and promotional texts also might require localization.
+- **Strategic Planning**: There should be a strategic plan determining which languages and markets are prioritized for localization.
+
+### Conclusion:
+
+In the evolving landscape of app development, localization is a nuanced strategy that can be a game-changer for an app’s success in global markets. While it brings challenges, such as managing translations and customizing content, the rewards in terms of market penetration, user growth, and revenue can be substantial. Remember always to tailor strategies based on the specific needs, objectives, and resources of your app and business. 🌍📱🚀
+
+---
+
+# How to get amazing Ratings & Reviews
+
+**Ratings and Reviews in App Store Optimization (ASO): Key Takeaways**
+
+Getting ratings and reviews is a crucial part of ASO because it gives potential users an insight into the experiences of others and can significantly impact an app’s download rate. Here’s a summary of strategies and best practices to effectively manage and improve your app’s ratings and reviews based on the video:
+
+### 1. **Understanding Ratings and Reviews**:
+
+- **User Perspectives**: Ratings and reviews often reflect user satisfaction and the value they derived from the app.
+- **Algorithmic Importance**: They are crucial from an ASO perspective, influencing an app's ranking on the app store.
+
+### 2. **Building a Good Product**:
+
+- **Foundational Requirement**: Having a fundamentally good product is essential before thinking about improving ratings and reviews.
+- **User Satisfaction**: A product that satisfies users will naturally garner better reviews and ratings.
+
+### 3. **Analyzing Competitor Reviews**:
+
+- **Research**: Read reviews of competitors’ apps to gain insights into user satisfaction and areas of improvement.
+- **Strategy Adaptation**: Adapt your strategy based on competitor reviews to make your app more appealing.
+
+### 4. **Strategically Soliciting Reviews**:
+
+- **Timing**: Ask for reviews when users have experienced value from the app to increase the likelihood of positive feedback.
+- **Frequency**: Avoid asking for reviews too frequently or too early in the user’s experience to prevent annoyance or negative reviews.
+- **Target User Base**: Target satisfied users and those who regularly engage with the app to improve the quality of feedback received.
+
+### 5. **Review Prompts**:
+
+- **Optimization**: Optimize the timing and style of review prompts to make them less intrusive and more effective.
+- **Engagement**: Engaging users at the right moment when they are most satisfied with the app’s service increases the chances of receiving positive reviews.
+
+### 6. **Interpreting and Utilizing Feedback**:
+
+- **Product Improvement**: Use reviews as a tool for continuous improvement, adapting the product based on user feedback.
+- **Negative Reviews**: Expect and accept negative reviews as part of the process, and use them constructively to enhance the app.
+
+### Conclusion:
+
+To boost ratings and reviews, focusing on delivering a quality product and engaging users at the right moments for feedback are key strategies. Regular analysis, strategic planning, and a user-focused approach are essential in leveraging reviews for ASO effectively. Remember, continuous improvement and adaptation based on user feedback are at the core of enhancing ratings and reviews. 🌟📱💡
+
+---
+
+# How to get featured and become the App or Game Of The Day
+
+- Tens of thousands of installs in a single day
+
+**Increase your chancess of getting featured**
+
+https://developer.apple.com/contact/app-store/promote/
+
+- High Quality App, No Crashing, Working almost perfectly
+- App built natively (Rumor)
+- Newly added OS features (For Example, Widget)
+- App must be regularly updated (Someone is working actively, like updating once a week)
+- Showcase high retention and high revenue
+- Beautiful experience, Great Design
+- Actual Conversion might be low
+- Small target like Germany, South Korea might be easier
+- Go on LinkedIn, find people with job titles "App Store Editor"
+
+**Getting Your App Featured: Strategies and Considerations**
+
+Being featured on the App Store or Play Store can significantly increase visibility and downloads of an app. Here’s a detailed breakdown of how to optimize the chances of getting an app featured, based on the video:
+
+### **1. Fundamental Basis: Quality of the App**
+
+- Ensure the app is stable, user-friendly, and offers genuine value to users.
+- High ratings and positive reviews enhance the likelihood of being featured.
+
+### **2. Localization and Pricing**
+
+- Consider localizing the app to tailor content, design, and marketing strategies based on regional preferences and behaviors.
+- Adapt pricing models to fit different regions, optimizing cost structures to align with local economic conditions and consumer expectations.
+
+### **3. Using Latest Platform Features**
+
+- Adopting the latest features provided by app platforms can increase the chances of being featured.
+- Stay updated with the latest trends and technologies to integrate into the app, showing a commitment to innovation and improvement.
+
+### **4. Regular Updates and Improvements**
+
+- Regularly updating the app to introduce new features, improve user experience, or fix bugs can enhance visibility and favorability among store editors.
+- Ensure that the app and its content remain updated and relevant, reflecting a commitment to user satisfaction and product enhancement.
+
+### **5. Strategic Communication with Platform Editors**
+
+- Directly reaching out to platform editors through official forms, providing necessary details about the app.
+- Crafting compelling stories about the app, showcasing its uniqueness, value proposition, and user benefits.
+
+### **6. Utilizing LinkedIn for Direct Outreach**
+
+- Consider reaching out directly to App Store or Play Store editors via LinkedIn, presenting the app and its distinctive features.
+- Maintain professionalism and conciseness in communication, ensuring that messages are compelling and informative.
+
+### **7. Continuous Testing and Optimization**
+
+- Engage in continuous testing and optimization, focusing on various elements like icons, descriptions, and screenshots.
+- Ensure that each aspect of the app and its listing is optimized to enhance visibility and user attraction.
+
+### **Conclusion:**
+
+Securing a featured spot on app platforms is about strategic efforts across various fronts. It involves ensuring app quality, leveraging latest platform features, engaging in strategic communication, and optimizing different elements of the app and its listing. By aligning strategies with platform preferences and maintaining a focus on innovation and user satisfaction, apps can enhance their chances of being prominently featured, driving visibility and downloads. 🌟📱🚀
+
+---
