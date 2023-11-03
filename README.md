@@ -15,44 +15,14 @@ https://www.dariusmora.com/
 - Don't put some keywords like `app`. It's useless
 - Only once you've really saturated and fulfilled this one market, then start looking into other markets, at least 6 figures monthly revenue. (Localization)
 - If your 30% revenue comes from another country, then you can consider A/B Test for different price for each country. (Price Localization)
-- Read Competitor's App Review**Ratings and Reviews in App Store Optimization (ASO): Key Takeaways**
-
-Getting ratings and reviews is a crucial part of ASO because it gives potential users an insight into the experiences of others and can significantly impact an app’s download rate. Here’s a summary of strategies and best practices to effectively manage and improve your app’s ratings and reviews based on the video:
-
-### 1. **Understanding Ratings and Reviews**:
-
-- **User Perspectives**: Ratings and reviews often reflect user satisfaction and the value they derived from the app.
-- **Algorithmic Importance**: They are crucial from an ASO perspective, influencing an app's ranking on the app store.
-
-### 2. **Building a Good Product**:
-
-- **Foundational Requirement**: Having a fundamentally good product is essential before thinking about improving ratings and reviews.
-- **User Satisfaction**: A product that satisfies users will naturally garner better reviews and ratings.
-
-### 3. **Analyzing Competitor Reviews**:
-
-- **Research**: Read reviews of competitors’ apps to gain insights into user satisfaction and areas of improvement.
-- **Strategy Adaptation**: Adapt your strategy based on competitor reviews to make your app more appealing.
-
-### 4. **Strategically Soliciting Reviews**:
-
-- **Timing**: Ask for reviews when users have experienced value from the app to increase the likelihood of positive feedback.
-- **Frequency**: Avoid asking for reviews too frequently or too early in the user’s experience to prevent annoyance or negative reviews.
-- **Target User Base**: Target satisfied users and those who regularly engage with the app to improve the quality of feedback received.
-
-### 5. **Review Prompts**:
-
-- **Optimization**: Optimize the timing and style of review prompts to make them less intrusive and more effective.
-- **Engagement**: Engaging users at the right moment when they are most satisfied with the app’s service increases the chances of receiving positive reviews.
-
-### 6. **Interpreting and Utilizing Feedback**:
-
-- **Product Improvement**: Use reviews as a tool for continuous improvement, adapting the product based on user feedback.
-- **Negative Reviews**: Expect and accept negative reviews as part of the process, and use them constructively to enhance the app.
-
-### Conclusion:
-
-To boost ratings and reviews, focusing on delivering a quality product and engaging users at the right moments for feedback are key strategies. Regular analysis, strategic planning, and a user-focused approach are essential in leveraging reviews for ASO effectively. Remember, continuous improvement and adaptation based on user feedback are at the core of enhancing ratings and reviews. 🌟📱💡
+- Read Competitor's App Reviews to get insight
+- InAppEvents works great if you want to attract more traffics. But it doesn't affect your ASO Score.
+- WatchOS Tips: They'll be using shorter phrases to look for your app
+- WatchOS Tips: The good news is there is less competition overall
+- App Clip Tips: App Clip is a tiny version of your app or game that can be shared outside of the App Store
+- App Clip Tips: It doesn't affect your ASO
+- App Clip Tips: It might be a good idea to use app clips if you have an audience that can have a chance to try out your app without installing the full thing
+- iPAD: Optimize screenshots for bigger screens
 
 ## Summary
 
@@ -1462,5 +1432,176 @@ Being featured on the App Store or Play Store can significantly increase visibil
 ### **Conclusion:**
 
 Securing a featured spot on app platforms is about strategic efforts across various fronts. It involves ensuring app quality, leveraging latest platform features, engaging in strategic communication, and optimizing different elements of the app and its listing. By aligning strategies with platform preferences and maintaining a focus on innovation and user satisfaction, apps can enhance their chances of being prominently featured, driving visibility and downloads. 🌟📱🚀
+
+---
+
+# Use Live Events to get more free marketing (iOS)
+
+**Understanding Live In-App Events on the App Store**
+
+Live in-app events can be a powerful tool to engage users and create a dynamic user experience. Here’s a breakdown based on the video:
+
+### **1. Independence from Core ASO:**
+
+- Hosting live events doesn't directly influence the app’s overall ASO (App Store Optimization) rank.
+- The presence of in-app events doesn’t impact keyword rankings or general visibility of the main app in app store search results.
+
+### **2. Creating an Event Card:**
+
+- Events are represented through event cards published on the App Store.
+- An event card includes essential details such as the event’s name, a description, and a representative graphic.
+
+### **3. Types of Events:**
+
+- Events can be varied, dependent on the nature of the app. For a meditation app, for example, it could be a global live meditation session.
+- Events should align with the app’s purpose and user interests, aiming to enhance the overall user experience and engagement.
+
+### **4. Visibility of the Event:**
+
+- Event cards can appear in search results alongside the app, giving them visibility to potential attendees.
+- Users actively looking for events on the App Store can discover these event cards, increasing the likelihood of participation.
+
+### **5. Purpose of In-App Events:**
+
+- The main goal of hosting live events is to increase user engagement, providing users with fresh, real-time content and experiences.
+- They serve as an additional feature to attract and retain users by offering unique, timely content or experiences within the app.
+
+### **Conclusion:**
+
+While live in-app events don't directly boost an app’s ASO, they serve as a mechanism to enhance user engagement by providing dynamic, real-time experiences. Utilizing event cards for visibility, these events can attract users seeking unique, immediate content or activities, fostering a more active and engaged user base. 📅📲💡
+
+---
+
+# The hidden traffic from WatchOS and WearOS
+
+- They'll be using shorter phrases to look for your app
+- The good news is there is less competition overall
+
+**Optimizing Apps for WatchOS and WearOS: Key Takeaways**
+
+### **1. Unique Operating Systems:**
+
+- WatchOS and WearOS operate as independent, specialized platforms, requiring distinct approaches for app optimization.
+
+### **2. User Query Characteristics:**
+
+- Due to the design and user interface constraints of watches, users typically employ shorter queries compared to other devices.
+- The limitation in typing capabilities directs users towards more concise, specific searches.
+
+### **3. Competitive Landscape:**
+
+- There’s less competition in the WatchOS and WearOS environments compared to traditional mobile app platforms.
+- Reduced competition presents an opportunity to gain visibility and prominence within these specific app stores.
+
+### **4. Design and Presentation:**
+
+- Icons and visuals should be customized to align with the unique display characteristics of watches.
+- Given the reduced screen size, icons and images should be clear, focused, and easily recognizable.
+
+### **5. Importance of Screenshots:**
+
+- Screenshots hold substantial importance, serving as a key visual representation of the app’s functionality and appearance on the watch.
+- Screenshots should be purposeful, clearly illustrating how the app appears and operates on the watch.
+
+### **6. Tailoring Content:**
+
+- Content, icons, and visuals should be carefully curated and tailored to suit the smaller display and unique user interaction style of watches.
+- The optimization should prioritize clarity, readability, and the conveyance of essential information, considering the limited screen real estate.
+
+### **Conclusion:**
+
+Optimizing apps for WatchOS and WearOS involves a nuanced approach, considering the specialized nature of these platforms. Prioritizing clarity in visuals, adapting to shorter user queries, and capitalizing on the less competitive environment are key strategies to effectively optimize apps for these watch operating systems. 🕰️📱💡
+
+---
+
+# Get the edge by harnessing tablet ASO
+
+**Optimizing Apps for Tablets: Key Points**
+
+### **1. Common Platform:**
+
+- Tablets use the same App Store or Play Store as smartphones, sharing a common platform for application distribution and download.
+
+### **2. Screen Size Adaptability:**
+
+- Given their larger screens, tablets offer a different user experience. Apps can either be scaled-up versions of the mobile app or be specifically optimized for the tablet’s larger display.
+
+### **3. Screenshot Optimization:**
+
+- When an app is tailored for tablets, it's essential to optimize the screenshots to reflect the app’s adaptability and functionality on a larger screen. This gives potential users a clear visual understanding of the app's appearance and usability on tablets.
+
+### **4. Authentic Representation:**
+
+- Ensure that screenshots and visuals genuinely represent the app’s appearance and functionality on a tablet. Misrepresentation could lead to user dissatisfaction and negative reviews.
+
+### **5. Market Size Consideration:**
+
+- The tablet market is generally smaller compared to the smartphone market. Developers often weigh the benefits against the additional development effort required to optimize apps specifically for tablets.
+
+### **6. Specialized Optimization:**
+
+- If an app is specifically designed or has specialized functionalities for tablets, it's worth investing in optimization efforts to enhance the user experience on these devices.
+
+### **Conclusion:**
+
+For apps available on tablets, it’s essential to ensure that they are suitably optimized to offer a seamless and effective user experience on the larger screen. This involves precise visual representations, genuine functionalities, and a strategic approach based on market size and potential returns on optimization efforts. 📱🖥️🔍
+
+---
+
+# How App Clips lead to more revenue(iOS)
+
+- App Clip is a tiny version of your app or game that can be shared outside of the App Store
+- It doesn't affect your ASO
+- It might be a good idea to use app clips if you have an audience that can have a chance to try out your app without installing the full thing
+
+**App Clips in iOS: Key Points**
+
+**1. Definition:**
+
+- App Clips are small parts of an iOS app that are available for instant access, offering specific functionalities without requiring a full app download.
+
+**2. Accessibility:**
+
+- App Clips can be shared externally from the App Store, accessible through QR codes, links, or NFC tags, allowing potential users to experience parts of the app swiftly.
+
+**3. Purpose:**
+
+- They allow users to preview a feature or experience part of the app without committing to downloading the full version, facilitating immediate access and usability for specific tasks or previews.
+
+**4. Influence on Installs:**
+
+- While App Clips can potentially encourage more installations by giving users a taste of the app’s functionalities, the specific impacts, such as how these interactions are categorized or affect overall app analytics, are not entirely clear.
+
+**5. Relevance to ASO:**
+
+- Currently, the use of App Clips does not seem to directly impact App Store Optimization (ASO) as they operate externally from the main App Store ecosystem.
+
+**6. Strategy and Implementation:**
+
+- Implementing App Clips might be beneficial for promoting the app in physical locations, social media, or other platforms, serving as a versatile tool for user engagement and promotion outside of traditional app store interactions.
+
+**Conclusion:**
+
+App Clips can serve as a strategic tool to offer potential users a quick and specific experience of an app without a full download, acting as a gateway to explore the app’s primary functionalities. While the full impact on ASO and overall app analytics remains somewhat ambiguous, App Clips represent a flexible, user-friendly approach to showcase an app’s offerings in a streamlined and accessible manner. 📲💡🔍
+
+---
+
+### Summary
+
+**Congratulations on Your ASO Journey: A Recap**
+
+🎉 **Celebration Time:** You've successfully navigated through a crucial part of this course, immersing yourself in a wellspring of ASO (App Store Optimization) knowledge. Your progression has been outstanding!
+
+🌐 **Exploring the ASO Universe:** From understanding how to shimmer in the App Store's spotlight through features, diving into the realms of Watch OS and Wear OS, grasping the essence of localization, and unfolding the curtains to live events and much more, your voyage has been rich and enlightening.
+
+🔍 **Unleashing ASO Superpowers:** Armed with an arsenal of ASO strategies and insights, you're now empowered to elevate your app's presence, enhancing visibility and user engagement. Use your newly acquired superpowers wisely to forge a remarkable and user-valued app.
+
+🚀 **Up Next - Uncharted Territories:** As we transcend the boundaries of ASO, exciting landscapes await exploration. Get ready to unveil the mysteries of free marketing, delve deeper into the heart of monetization analytics, and unravel more elements that encapsulate the universe of app business.
+
+💡 **Responsibility and Ethical Creation:** With the treasures of knowledge at your fingertips, ensure your creations resonate with value, integrity, and meaningful experiences, cultivating a garden of apps that flourish in usefulness and positive impact.
+
+🗺 **Continuing the Adventure:** Your journey doesn't stop here. A world brimming with marketing strategies, monetization magic, and analytical adventures awaits your curiosity and exploration in the upcoming sections. Let's continue sailing through the enriching seas of app business exploration!
+
+Congratulations once again, and here’s to more discoveries and successes in your app business adventure! 🌟🚀🎓
 
 ---
