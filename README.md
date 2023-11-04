@@ -142,6 +142,92 @@ https://developer.apple.com/contact/app-store/promote/
 - Small target like Germany, South Korea might be easier
 - Go on LinkedIn, find people with job titles "App Store Editor"
 
+### Master Contents Marketing
+
+1. Master the platform
+2. Master the content
+   - Entertain or Educate
+   - Find a trending music and incorporate it into your video
+     - Low Volume
+   - Think about your audience
+     - Put your self in the shoes of the person that can be consuming your content
+     - Understand
+       - What are their patterns
+       - What are they seeking
+       - What are they looking for
+   - Post ten times a day
+     - The more frequently you post, the more results you are going to see
+   - Consistency
+     - #1 Factor is consistency
+     - Constantly Posting is the key
+   - Best Time
+     - If you find time that works for you, stick to it
+
+### Long-format, horizontal video (Youtube)
+
+- Consistency is the key
+- Youtube Customers convert better
+- Ideal Video Length 8 mins (8 mins to 30 mins)
+- Ideal to create your contents in bulk
+- You need to inform people or make them feel some kind of an emotion on Tiktok and Instagram reels and youtube shorts
+- Youtube long format, you need to show your face. That's the most effective way.
+- Make Videos for your audience
+- Build it for your audience
+- Don't overthink it
+- "Start with what you have right now"
+
+### Text-based (LinkedIn, Medium, Twitter, Blogs)
+
+- LinkedIn is a fantastic platform for B2B or professional audiences.
+  - Create Articles
+  - Writing a proper blog post
+  - Consistency is the key
+- Twitter
+  - Consistency
+- Tips for production
+  - You could get someone to write articles, turn my videos and podcasts into articles.
+
+### Audio-based (Podcasts)
+
+- Consistency is the key
+- Podcasts are very long formats
+- Incredible Benefits
+  - Super Long Format
+  - If somebody listens to you for an hour, they start to trust you
+  - for 1 hour ~ 4 hours
+- Quality matters
+- Contents Format
+  - Interview
+  - Talk about different topics
+    - Bigger Topics
+    - My first million dollars story for example
+- But this platforms require a lot of energy
+- Microphone is important ($50)
+
+### Group Based (Reddit, Facebook)
+
+- Become a member of community and contribute by being helpful, by answering, by doing a lot of work for free, then you are going to get some leads.
+- It doesn't really work at scale
+- If you're starting from zero and if an app or game has no attention right now
+  - Creating conversation and engagement and feedback is great
+- Facebook groups are a great way again to engage and answer questions
+- Subreddits are a great way to find lots of fantastic engaging niches. But you have to be very careful not to be spammy, not to seem like you're advertising.
+- Quora is great
+- WhatsApp is a great channel
+
+### PR-based
+
+- Not that many audience
+- Mostly tourist users
+  - Conversion rate is low
+- Not long-term marketing growth strategy
+
+**_Three Main Ways_**
+
+- https://www.helpareporter.com/
+- Hire agency => Press something you pay for
+- Hard grind yourself. Message 1,000 reporters
+
 ---
 
 # Differences between SEO and ASO
@@ -1605,3 +1691,391 @@ App Clips can serve as a strategic tool to offer potential users a quick and spe
 Congratulations once again, and here’s to more discoveries and successes in your app business adventure! 🌟🚀🎓
 
 ---
+
+Fantastic! Let's get started on how to leverage these platforms for free marketing and increasing app installs.
+
+1. **Instagram**:
+
+   - **User-generated content**: Encourage your current users to share their experiences with your product on Instagram. Create a hashtag for them to use and feature the best posts on your profile.
+   - **Influencer partnerships**: Find micro-influencers who may be willing to promote your app for free or for a trade of services.
+   - **Instagram Stories & Reels**: Use these features to showcase your app's features, updates, and user testimonials.
+
+2. **YouTube**:
+
+   - **How-to videos**: Create tutorials or how-to videos showing the value and functionality of your app.
+   - **Collaborations**: Work with YouTubers for app reviews or mentions in their videos.
+   - **SEO**: Optimize your video titles, descriptions, and tags to improve visibility in search results.
+
+3. **TikTok**:
+
+   - **Challenges**: Start a challenge and use a catchy hashtag. Challenges can go viral and lead to massive exposure.
+   - **TikTok influencers**: Similar to Instagram, find influencers who can creatively promote your app.
+
+4. **Google**:
+
+   - **ASO (App Store Optimization)**: Optimize your app’s listing on Google Play Store for better visibility.
+   - **Google My Business**: If applicable, create a listing to get local visibility.
+   - **SEO for your website**: Optimize your website’s SEO to rank higher in search results related to your app.
+
+5. **LinkedIn**:
+
+   - **Professional networking**: Post insightful articles about your industry that lead back to your app.
+   - **Groups**: Engage in LinkedIn Groups where your target audience might hang out.
+   - **Direct outreach**: Network with industry professionals who might benefit from your app.
+
+6. **Medium**:
+
+   - **Publish articles**: Share stories about the development, challenges, and successes of your app.
+   - **Engage with other writers**: Comment on articles related to your niche to increase visibility.
+
+7. **Reddit**:
+   - **Subreddits**: Become an active member of subreddits related to your app’s niche. Offer value and occasionally promote your app.
+   - **AMAs (Ask Me Anything)**: If you have an interesting story, doing an AMA can draw a lot of attention.
+
+Now, let's discuss some hacks:
+
+- **Cross-promotion**: Find apps that are not direct competitors but share a similar target audience and propose a mutual promotion.
+- **Publicity stunts**: Do something newsworthy that gets people talking about your app.
+
+- **Content syndication**: Republish your content on platforms like LinkedIn, Medium, or industry-specific forums for wider reach.
+
+- **App referral programs**: Create an in-app referral program to encourage your current users to invite their friends.
+
+- **Gamification**: Introduce game-like elements in your app or its marketing to engage users.
+
+- **Leverage holidays and events**: Create promotions or features related to popular events or holidays.
+
+Remember, the key is to provide value and engage authentically with the community on each platform. Consistency is crucial when you're relying on organic growth strategies. Now, are you ready to put these into action and see those install numbers climb?
+
+---
+
+### Master Contents Marketing
+
+1. Master the platform
+2. Master the content
+   - Entertain or Educate
+   - Find a trending music and incorporate it into your video
+     - Low Volume
+   - Think about your audience
+     - Put your self in the shoes of the person that can be consuming your content
+     - Understand
+       - What are their patterns
+       - What are they seeking
+       - What are they looking for
+   - Post ten times a day
+     - The more frequently you post, the more results you are going to see
+   - Consistency
+     - #1 Factor is consistency
+     - Constantly Posting is the key
+   - Best Time
+     - If you find time that works for you, stick to it
+
+---
+
+### Short-format, vertical video (TikTok, Youtube Shorts, Instagram Reels)
+
+**Expanding Your Reach with Short Video Content: A Synthesis**
+
+**The Big Idea: Leverage Short Video Platforms Efficiently**
+
+Your mission is to maximize impact with minimal effort, adhering to the 80/20 principle. Short video content provides an excellent vehicle for this approach, allowing you to cater to TikTok, YouTube Shorts, and Instagram Reels simultaneously.
+
+**Content Mastery: Entertain or Educate**
+
+- **The Dual Path**: To captivate your audience, your content must either entertain or educate. This dual path is essential for engagement.
+- **Faceless Content**: Not comfortable on camera? No problem. Content doesn't always need your face. A scenic video with an overlay of inspiring quotes can suffice.
+- **The Entertainment-Education Balance**: Aim to tick one of these boxes - make viewers laugh, think, or learn.
+- **Music's Magnetism**: Music enhances content. Trendy beats can elevate your videos, making them more appealing and shareable.
+
+**Platform Proficiency: Rules of the Game**
+
+- **Consistency Wins**: Posting regularly is critical. For platforms like TikTok, YouTube Shorts, and Instagram Reels, daily posts are recommended.
+- **Bulk Shooting**: To avoid daily content creation stress, shoot in bulk. Allocate a day for content creation to cover a week or more.
+- **Engagement Dynamics**: Platforms prioritize content that initially engages a small audience segment and then, based on interaction, progressively shows it to more viewers.
+
+**Practical Tips and Hacks**
+
+- **Action Over Perfection**: Don't overthink it. Begin creating and posting content immediately. Perfection is not the goal; consistent action is.
+- **Engage Before Launch**: Even before your product is market-ready, build your audience. Share your journey, gather feedback, and when you launch, you’ll have an eager audience.
+
+**Exclusive Offer for Students**
+
+For those looking to specialize further, my comprehensive TikTok masterclass on Udemy, complete with a student discount, is available to take your skills to an elite level.
+
+**Conclusion and Encouragement**
+
+Embrace the power of short video content. With a strategic approach to creating and sharing, you can harness the potential of multiple platforms to amplify your message. Remember, consistency and authenticity are your best tools. Now go forth, start creating, and watch your digital presence flourish. 🚀🎥🌟
+
+---
+
+# Long-format, horizontal video (Youtube)
+
+- Consistency is the key
+- Youtube Customers convert better
+- Ideal Video Length 8 mins (8 mins to 30 mins)
+- Ideal to create your contents in bulk
+- You need to inform people or make them feel some kind of an emotion on Tiktok and Instagram reels and youtube shorts
+- Youtube long format, you need to show your face. That's the most effective way.
+- Make Videos for your audience
+- Build it for your audience
+- Don't overthink it
+- "Start with what you have right now"
+
+**Harnessing the Power of YouTube: A Summary**
+
+**Key Points:**
+
+1. **YouTube as a Search Engine**: YouTube is not just a video platform but the second-largest search engine after Google. This characteristic changes how you should approach content creation on the platform.
+
+2. **Value of YouTube**: On the spectrum of digital platforms, YouTube stands out for its high potential to convert viewers into customers, making it one of the most valuable spaces for content creators.
+
+3. **Content Frequency and Length**: Consistency reigns supreme, but unlike short video platforms, YouTube favors slightly longer content. The sweet spot for video length is between 8 and 30 minutes. Aspiring YouTubers should aim for at least one video a week.
+
+4. **Content Planning**: Bulk content creation can be a lifesaver, especially on a platform like YouTube. It's efficient to have a cache of videos ready to go to maintain consistency without the stress of last-minute creation.
+
+5. **Content Nature**: YouTube viewers generally expect content that educates or entertains. And while the platform does favor content with a personal touch, such as face-to-camera videos, starting simple is better than not starting at all.
+
+6. **Getting Started**: Don't let the lack of professional equipment or perceived perfection stop you. An iPhone and natural lighting can be enough to begin your journey into YouTube content creation.
+
+7. **Audience-centric Creation**: Tailor your videos to meet the interests and needs of your audience, not just your personal preferences. Use tools like Tube Buddy for keyword research to optimize your video titles, descriptions, and tags, thus aligning your content with what the audience is searching for.
+
+8. **Action Over Perfection**: The best strategy is to begin with what you have. Learn as you go and improve your setup over time. Procrastination due to a desire for perfection only hinders progress.
+
+**Takeaway Message:**
+
+Start with your audience's needs in mind and create content that serves them. YouTube's value comes from its ability to bring you closer to an engaged audience that could turn into loyal customers. Remember, in content creation, especially on YouTube, consistent action trumps all. Now, grab your phone or camera, make your first video, and join the YouTube community. 🎥🌟📈
+
+---
+
+# Text-based (LinkedIn, Medium, Twitter, Blogs)
+
+- LinkedIn is a fantastic platform for B2B or professional audiences.
+  - Create Articles
+  - Writing a proper blog post
+  - Consistency is the key
+- Twitter
+  - Consistency
+- Tips for production
+  - You could get someone to write articles, turn my videos and podcasts into articles.
+
+**Maximizing Text-Based Platforms for Growth: A Summary**
+
+**Key Points:**
+
+1. **LinkedIn as a B2B Hub**: LinkedIn shines for B2B (Business to Business) and professional audience engagement. It's a prime spot for sharing well-crafted, professional articles that provide value to your industry peers.
+
+2. **Articles over Posts**: On LinkedIn, deep-dive articles often perform better than simple posts. Thorough, informative pieces like tutorials or guides garner more attention and establish authority.
+
+3. **Consistency is Crucial**: As with any social media platform, maintaining a regular posting schedule is essential. Consistency in posting frequency can help build a dedicated following.
+
+4. **Leveraging AI**: Tools like Jasper AI can assist in content creation by generating articles. This could potentially save time, but caution is advised to avoid potential platform penalties, such as shadow banning, which has been experienced on video-based platforms.
+
+5. **Turning Videos into Text**: If you’re already creating video content, repurposing it into written form for LinkedIn or other text-based platforms can maximize your reach without requiring extra content creation effort.
+
+6. **Twitter's Unique Pace**: While Twitter is known for short, snappy content, the principle of consistency remains the same. Daily posts, or even multiple posts per day, can help you break through the noise and grow your presence.
+
+**Content Tips:**
+
+- **Thought Leadership**: Share insights, opinions, and thought-provoking content to engage and grow your audience.
+- **Engagement**: Responding to comments, engaging with other posts, and being an active participant in your industry's conversation can increase visibility.
+
+- **Trending Topics**: Tap into current events, trending hashtags, and popular conversations relevant to your industry to increase your content's reach.
+
+**Takeaway Message:**
+
+Whether your platform of choice is LinkedIn for in-depth professional articles or Twitter for quick, engaging updates, the key to success is providing valuable content consistently. Consider experimenting with AI tools to streamline content creation, but proceed with caution and monitor the impact. Above all, begin by assessing your strengths – whether you excel in video or text – and then find ways to cross-pollinate content across different platforms to maximize your marketing efforts. 🌐✍️📈
+
+---
+
+# Audio-based (Podcasts)
+
+- Consistency is the key
+- Podcasts are very long formats
+- Incredible Benefits
+  - Super Long Format
+  - If somebody listens to you for an hour, they start to trust you
+  - for 1 hour ~ 4 hours
+- Quality matters
+- Contents Format
+  - Interview
+  - Talk about different topics
+    - Bigger Topics
+    - My first million dollars story for example
+- But this platforms require a lot of energy
+- Microphone is important ($50)
+
+  **Key Takeaways from the Lecture on Podcasts:**
+
+1. **Long-Form Content Connection**: Podcasts allow for long-form content, meaning your audience engages with your voice and message for extended periods, fostering a deeper connection and trust.
+
+2. **Cross-Platform Synergy**: Podcasts can be the content core, with their audio repurposed across various platforms — videos for YouTube, snippets for social media, and transcripts for articles or blog posts.
+
+3. **Popular Podcast Formats**: Interviews and conversational formats (like "My First Million") are particularly popular, drawing in listeners with expert insights or dynamic discussions.
+
+4. **The Work Behind the Mic**: While it might seem straightforward, podcasts require effort — from planning and recording to editing and distributing. It's often more work than anticipated.
+
+5. **Consider Outsourcing Editing**: Editing can be outsourced to professionals on platforms like Fiverr or Upwork to ensure a polished final product without the need to master audio editing yourself.
+
+6. **Commit to Consistency**: Like other content mediums, consistent posting schedules are vital for building an audience. Quality, however, should not be sacrificed for frequency.
+
+7. **Sound Quality Matters**: In podcasting, audio quality can't be compromised. Investing in a decent microphone is essential for retaining listeners.
+
+8. **Anchor FM for Distribution**: Anchor FM is recommended for podcast distribution. It simplifies the process by distributing episodes to multiple platforms like Apple Podcasts and Spotify.
+
+**Practical Advice:**
+
+- **Start Small**: Test podcasting first. Record a few episodes to gauge the time and work involved before fully committing.
+- **Quality Microphone**: You don't need to break the bank, but a quality microphone is a non-negotiable investment for podcasting.
+- **Use Anchor FM**: Take advantage of free distribution services like Anchor FM to ease the process and expand your reach.
+
+**Action Steps:**
+
+1. **Consider Your Content**: Ensure your podcast's content aligns with your brand and provides value, whether through education, entertainment, or inspiring conversations.
+2. **Get the Right Equipment**: Invest in a good microphone and possibly a pop filter to improve sound quality.
+3. **Record and Test**: Create a few episodes to understand the workflow and decide if podcasting fits into your content strategy.
+4. **Plan Your Schedule**: Determine a realistic posting schedule that balances quality content and consistency.
+5. **Explore Distribution Tools**: Look into tools like Anchor FM to streamline your podcast distribution across various platforms.
+
+**Final Thoughts:**
+
+Podcasting can be a powerful tool in your content arsenal, offering a unique way to engage deeply with your audience. While it requires a bit of upfront investment in equipment and learning, the potential for personal connection and content repurposing is significant. Whether you're sharing expertise or capturing intriguing dialogues, a well-executed podcast can enrich your brand's voice and expand your reach. 🎙️📢📻
+
+---
+
+# Group Based (Reddit, Facebook)
+
+- Become a member of community and contribute by being helpful, by answering, by doing a lot of work for free, then you are going to get some leads.
+- It doesn't really work at scale
+- If you're starting from zero and if an app or game has no attention right now
+  - Creating conversation and engagement and feedback is great
+- Facebook groups are a great way again to engage and answer questions
+- Subreddits are a great way to find lots of fantastic engaging niches. But you have to be very careful not to be spammy, not to seem like you're advertising.
+- Quora is great
+- WhatsApp is a great channel
+
+---
+
+**Key Takeaways from the Lecture on Group-Based Platforms:**
+
+1. **Value Contribution**: The key to leveraging group-based platforms is to provide value and be helpful within the community. Spamming links without contributing meaningfully will not be effective.
+
+2. **Niche Targeting**: These platforms are excellent for finding and engaging with niche audiences that align closely with your product or service.
+
+3. **Scalability Limitations**: While group-based platforms are great for initial growth, they may not be effective for large-scale user acquisition.
+
+4. **LinkedIn Groups**: Professional and industry-focused groups on LinkedIn can be valuable for B2B connections and early user recruitment.
+
+5. **Facebook Groups**: Still highly active, these groups allow for deeper community engagement around shared interests or needs.
+
+6. **Reddit Subreddits**: Highly engaged communities exist around almost every topic on Reddit. However, overt advertising is frowned upon, so subtlety and genuine contribution are key.
+
+7. **Quora**: Answering questions related to your expertise can establish credibility and lead to organic discovery of your product or service.
+
+8. **WhatsApp Groups**: Less public but can be a potent tool if you can find groups relevant to your market.
+
+**Practical Advice:**
+
+- **Research Relevant Groups**: Invest time in finding groups that align closely with your target market or where your potential users may be active.
+- **Engage Authentically**: Participate in discussions, offer advice, and share experiences without pushing your product aggressively.
+- **Be Patient and Consistent**: Establishing a presence and trust within these groups takes time and consistency in your valuable contributions.
+- **Use AI Sparingly**: While AI can help with engagement, it's crucial to maintain a human touch in interactions to build genuine relationships.
+
+**Action Steps:**
+
+1. **Identify Groups**: Use search functions and community suggestions to find groups on LinkedIn, Facebook, Reddit, Quora, and even WhatsApp that are relevant to your product.
+2. **Engage with Content**: Start by contributing to existing conversations. Share insights, answer questions, and provide value without immediately linking to your product.
+3. **Share Thoughtfully**: When the opportunity arises naturally, share your product as a potential solution to a problem being discussed.
+4. **Monitor and Respond**: Stay active and responsive to any follow-up comments or questions that arise from your contributions.
+
+**Final Thoughts:**
+
+Group-based platforms offer a unique opportunity to engage directly with highly targeted, engaged communities. While they are not a one-size-fits-all solution for growth, for the right product and audience, they can provide a strong foundation of early adopters and valuable feedback. Remember, your goal is to become a respected member of the community first — growth and user acquisition will follow from the trust and authority you build. 🌐🤝🚀
+
+---
+
+# PR-based
+
+- Not that many audience
+- Mostly tourist users
+  - Conversion rate is low
+- Not long-term marketing growth strategy
+
+**_Three Main Ways_**
+
+- https://www.helpareporter.com/
+- Hire agency => Press something you pay for
+- Hard grind yourself. Message 1,000 reporters
+
+**Key Takeaways from the Lecture on Press and PR:**
+
+1. **Expectation Management**: Press releases and PR stunts often do not translate into the significant user growth that many expect. They may bring visibility but not necessarily sustained growth or the right kind of users.
+
+2. **User Demographics**: Press can attract many 'tourist users' who may check out your app out of curiosity but are not necessarily part of your target demographic, which can lead to lower conversion rates.
+
+3. **PR is not a Growth Strategy**: The boost from PR is typically temporary. It does not establish a long-term growth path for user acquisition.
+
+4. **Newsworthiness Standards**: Simply launching a new product is often not enough to garner press attention in the current media climate. Significant or unique achievements or innovations are required.
+
+5. **Methods to Gain Press**:
+
+   - **Help a Reporter Out (HARO)**: This platform connects reporters to experts. It’s a more targeted approach where you can provide expertise relevant to journalists' inquiries.
+   - **Hiring a PR Agency**: This can be an expensive option where payment may influence the press coverage. It is effective but may not be cost-efficient in terms of user acquisition.
+   - **Direct Outreach**: Contacting reporters individually can be labor-intensive and has a low success rate unless you have a notably compelling story to tell.
+
+6. **PR for Fundraising**: Having been featured in reputable publications can serve as a credibility marker when seeking investment, as it may help in getting through the door with potential investors.
+
+7. **Real Value of PR**: The actual impact of PR on your business could be minimal. It may not increase your customer base or sales but could feed into vanity metrics.
+
+**Practical Advice:**
+
+- **Strategic PR**: Consider PR efforts if they align with your business goals, like fundraising or creating brand awareness, rather than direct user acquisition.
+- **Be Newsworthy**: Focus on developing unique aspects of your product that could naturally attract media attention.
+- **Budget Wisely**: Assess if the potential cost of PR campaigns is worth the outcome, considering the actual return on investment in terms of user growth.
+
+**Action Steps:**
+
+1. **Evaluate Goals**: Determine if PR aligns with your current business objectives.
+2. **Prepare Your Pitch**: Craft a compelling narrative about your product or company that stands out.
+3. **Select a Strategy**: Decide whether to use platforms like HARO, hire a PR agency, or undertake the direct outreach based on resources and potential ROI.
+4. **Leverage Success**: If you do get press coverage, use it strategically for fundraising or to build brand credibility, rather than solely for user acquisition.
+
+**Final Thoughts:**
+
+Press and PR can still play a valuable role in your overall business strategy, especially when it comes to brand building and fundraising. However, when it comes to user growth, it’s important to keep expectations realistic and focus on strategies with proven ROI. Press coverage should be seen as a supplementary tool, not a core strategy for user acquisition. 🗞️💼🚀
+
+---
+
+# Summary of the section
+
+**Summary of Free Marketing Section:**
+
+1. **Diverse Platforms**: There is a variety of platforms catering to different content preferences – video, audio, text, and groups – providing multiple avenues for marketing based on what suits you best.
+
+2. **Content Pyramid Strategy**: By creating high-value content like an in-depth interview, you can repurpose it across platforms, maximizing exposure and engagement with minimum input.
+
+3. **Consistency is Key**: No matter the frequency of your posting, sticking to a consistent schedule is critical across all platforms to build and maintain an audience.
+
+4. **Patience and Brand Building**: Free marketing is effective but requires patience. Building a brand and establishing a presence takes time, and the benefits accrue slowly.
+
+5. **Time Commitment**: Understand that marketing, especially free marketing, is a long-term game that may require more time than initially expected.
+
+**Looking Ahead – Paid Marketing Section:**
+
+1. **Budget Consideration**: If you have some marketing budget, even if it’s modest, the next section on paid marketing can offer strategies for accelerating growth.
+
+2. **Leveraging Paid Marketing**: With the right techniques, even small teams can achieve significant daily install growth rates without incurring losses.
+
+3. **Sustainable Growth**: The upcoming lessons will cover how to use paid marketing sustainably to reinvest profits and continually scale up.
+
+**Actionable Takeaways:**
+
+1. **Evaluate and Choose Platforms**: Decide which platforms are best for your content strategy based on your strengths and preferences.
+2. **Create a Content Schedule**: Based on the chosen platforms, create a content calendar that is realistic and can be adhered to consistently.
+
+3. **Start Small, Think Big**: Begin your marketing efforts even if resources are limited, focusing on consistency and gradual growth.
+
+4. **Prepare for Paid Marketing**: If you have some budget, gear up for the next section where you'll learn to use paid marketing for rapid and sustainable growth.
+
+**Encouragement and Expectation Management:**
+
+As you wrap up the free marketing section, feel invigorated by the opportunities and strategies discussed. Approach the next section on paid marketing with optimism and the understanding that with investment, you can amplify your growth while maintaining profitability. Keep in mind that success in marketing, especially in the crowded app market, is a marathon, not a sprint. 🚀📈🎯
