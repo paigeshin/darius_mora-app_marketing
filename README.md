@@ -124,7 +124,7 @@ In this lesson, a streamlined strategy for selecting powerful keywords to optimi
 - Run the test at least for 7 days
 - Run only one test at any given time, keep the data clear
 
-# How to get featured and become the App or Game Of The Day
+### How to get featured and become the App or Game Of The Day
 
 - Tens of thousands of installs in a single day
 
