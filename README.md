@@ -23,6 +23,12 @@ https://www.dariusmora.com/
 - App Clip Tips: It doesn't affect your ASO
 - App Clip Tips: It might be a good idea to use app clips if you have an audience that can have a chance to try out your app without installing the full thing
 - iPAD: Optimize screenshots for bigger screens
+- UI & UX: In the US Fitness Category, conversion rate to subscription is 3%. 100 installs => 3 subscriptions
+- UI & UX: Static Onboarding, 4 screens are the best
+- UI & UX: Onboarding especially for fitness apps, you can add upto 15 screens, but it must be really interactive
+- UI & UX: Guide users in the interactive ways
+- UI & UX: Don't make people read manuals
+- UI & UX: Introduce Information Gradually
 
 ## Summary
 
@@ -295,6 +301,267 @@ https://www.youtube.com/watch?v=NrtU_R27vUI
    4. In-House campaigns
 
 ![img4](./scaling.png)
+
+### How to solve the Attribution problem
+
+- Mobile attribution is the process of attributing certain users to certain marketing campaigns.
+- This only makes sense if you are running campaigns on several different marketing channels.
+- If you are only running ads on one channel, you don't need attribution.
+
+**Platforms**
+
+- Branch, Mobile Measurement Partner (MMP)
+  - https://www.branch.io/
+- Adjust
+  - https://try.adjust.com/
+- Appsflyer
+  - https://www.appsflyer.com/ko/
+
+### My Four-Step-Testing-System
+
+- When you start advertising, there is a thousand different decisions you could be making. There's lots of different channels, lots of different pictures or videos, different types of content. You could be trying lots of different options of who you target, what kind of countries, what kind of age groups. It's just on and on. The problem is, if you don't have a clear list of priorities, if you don't know what is important and what is not important, you're going to waste a lot of time and money.
+- Most platforms require $10,000 spending for optimization
+
+1. Channel
+   - User behavior is different
+   - Go to where your users are
+2. Audience, Targeting Number
+3. The creative
+   - Test different types of contents
+4. Conversion Optimization
+   - 1% improvement
+
+### How to harness the advertising power of Google (Android & iOS)
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501356#overview
+
+- App Install
+- Select Location Manually
+  - All cooutnries BIG NO NO
+  - Target Specific Countries
+- One Week Campaign For Test
+- Target cost per install
+  - maximum expense
+  - $1 per a download
+- The more images and videos and text you add, the longer it is going to take to find the optimal solution
+
+### Easiest advertising tool: Search Ads(iOS)
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501364#overview
+
+**Advanced Version**
+
+- Target Specific Keywords
+- Different Asset
+
+**Basic Search Ads**
+
+1. Deselect All Countries
+2. Target only your targeted countries
+3. Set Monthly Budget
+
+=> Recommended if you are just getting started
+
+**Advanced Seacrch Ads**
+
+1.  Product Placements
+
+- Today Tab
+- Search Tab => Recommended
+- Search Results => Highly Recommended
+- Product Pages
+
+=> Try testing for all four placements
+
+2. Target only your targeted countries
+
+3. Set Daily Budget
+
+- $20
+
+4. Schedule
+
+- Always Set End Date
+
+5. Max CPT Bid => Ad Group Settings
+
+- How much you are willing to pay for `tap` => but it doesn't mean they will install your app
+- $0.20
+
+6. Set Ad Group Settings End Date
+
+- It's different from your campaign.
+- Ad group can be independantly terminated
+
+7. Audience
+
+- All Eligible Users or Choose Spcific Audiences
+  - Devices
+  - All Users, New Users, Users of my other apps, Returning Users
+    - New Users
+  - Demographics
+    - Gender
+    - Age
+
+### How billion-dollar companies are created through Facebook & Instagram ads
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501368#overview
+
+- You must create a separate ad account even if you have facebook or instagram account.
+- Facebook ads can be really cheap if your product is really good
+
+**Kind of Ads**
+
+- Awareness
+- Traffic => Highly Recommedend for Mobile App
+  - Good for Website
+  - Much Cheaper
+- Engagement
+- Leads
+- App Promotion => Recommedend for Mobile App
+- Sales
+
+=> You can try testing for traffic & app promotion
+
+**App Promotion Campagin Types**
+
+- Advantage+ App Campaigns => Recommendend
+- App Ads
+
+**Layers**
+
+- Campagin
+- Ad Groups
+- Ad
+
+**Campaign Level**
+
+- Choose these options
+  - Buying type => Auction
+  - Advantage+ App Campaigns
+
+**Ad Set Level**
+
+- App Store
+- Select Country
+- Optimization Goal => App Installs
+- Set a bid cap => $1
+- Daily Budget => $10
+- Schedule => One Week
+
+**Ad Level**
+
+- Link your facebook page and instagram account
+- Creative Source
+  - Manual Upload
+- Format
+  - Singme Image or Video
+  - Format is very important for your ad price
+- Recommended CTA
+  - Learn More
+  - (Install Now is expensive)
+
+### Become an industry leader on TikTok
+
+- Three Layers
+  - Campaign
+    - Ad Sets
+      - Ads
+- Conversions are not so good
+- Work directly with influencers
+  - Influencers create your posts
+  - You can boost it
+
+### Bonus Interview: Paid Marketing vs Organic Growth
+
+- Reflectly got 40,000 emails on the landing page in the first couple of weeks
+- Not monetized for 6 months
+- Micro-influencers at Scale
+  - Pay tiktokers to create videos
+  - Zero Creative Judgement
+  - Poor Quality, looking like a content wins
+  - Run everything
+  - Contents they deliver is the king, super valuable
+- If you have time, post contents yourself, if you have money, run ads
+- The product should be good. People waste their time and money on the product that's not working
+- You have 1,000 questions to answer and problems to solve. Focus on building something great
+- Reflectly is a ridiculolusly simple product. First two years, there was only one feature.
+  - You just go in and you write how you feel and you add some emojis.
+  - App doesn't have to be complicated
+- If you want to build an app in a category, try to talk to as many people as possible who are a few steps ahead of you
+  - Find any app, find their support, reach out 50 of them. Try to contact.
+
+**Pre-orders**
+
+- Pre-orders, 6 months (180 days)
+- A huge advantage
+
+**Important Factors**
+
+1. Make sure that what we're building resonates with the community
+   - Make sure that we know that whatever we are building should have a potential to make money
+   - If there are other apps that generate revenue but they are not very good, make a better product
+2. Pre-order
+   - Get traffics from the beginning
+
+**Create Community**
+
+- Create Community for B to C
+- Build a community that wants a specific thing.
+- Email List
+- Tiktok
+- Instagram
+- Facebook Community Page
+
+**Important Things**
+
+- Pattern
+- Choosing the right place
+  - Right category
+  - Right product
+  - How to reach people
+- Features don't actually matter
+- Do one thing great
+
+**Landing Page Strategy**
+
+- Validate your idea through Landing Pages
+- Created Three Different Ideas with Landing Pages (Only Landing Pages)
+- Reflectly stood out
+
+**Baseline Metrics**
+
+- Are you making money more than you spend it?
+- If your ads are not making any money, look at the funnels
+  - Platform Problems?
+  - Asset Problems?
+
+**Budget**
+
+- No money at all => build products
+- $1,000
+  - Start Apple Search Ad
+  - Check if your app make $1,000
+- Start with $10 at the beginning for each campaign
+- How much are you willing to risk for your idea?
+
+### Acquire Companies
+
+- As you start to scale and go up, you'll hit a celing of how much money you can spend profitably
+- Acquire other apps that have really good traction on the app store
+  - Different Ways to acquire users
+- Factors to consider
+  - Organic Ranking of the app
+  - Motivation app, which makes $600,000 a month => Super Product
+  - Look for apps that have really high significant ranking for keywords that matter
+  - Reach out people, a lot of outreach
+
+### Micro Influencers
+
+- 5 to 20,000 followers on Instagram
+- Distribution is not that worth it
+  - What we pay for is the creative content
+  - Run it on Facebook ads or Instagram ads
 
 ---
 
@@ -2258,3 +2525,323 @@ https://www.youtube.com/watch?v=NrtU_R27vUI
    4. In-House campaigns
 
 ![img4](./scaling.png)
+
+---
+
+# How to solve the Attribution problem
+
+- Mobile attribution is the process of attributing certain users to certain marketing campaigns.
+- This only makes sense if you are running campaigns on several different marketing channels.
+- If you are only running ads on one channel, you don't need attribution.
+
+**Platforms**
+
+- Branch, Mobile Measurement Partner (MMP)
+  - https://www.branch.io/
+- Adjust
+  - https://try.adjust.com/
+- Appsflyer
+  - https://www.appsflyer.com/ko/
+
+---
+
+Mobile attribution is indeed an essential component for those delving into paid advertising, especially when the aim is to accurately track the user journey from ad click to app action. Here's a summary of the lecture:
+
+- **Mobile Attribution Basics**: The process involves tracking and attributing user actions, such as app installs or purchases, to specific marketing campaigns.
+
+- **Privacy Focused Platforms**: Apple and Google prioritize user privacy, which presents challenges for tracking across the web. Unlike web cookies that track user behavior across sites, mobile attribution in the app ecosystem is less straightforward due to these privacy constraints.
+
+- **Third-Party Solutions**: To bridge the tracking gap, third-party mobile attribution providers like Branch and Adjust offer tools to help correlate marketing efforts with user actions. These platforms are essential for campaigns spread across multiple channels, allowing marketers to understand where their conversions are coming from.
+
+- **Economics of Attribution Tools**: While useful, these tools can be costly and may not be necessary for businesses running single-channel campaigns. The utility of such tools increases with the complexity and scale of the advertising efforts.
+
+- **Data Accuracy**: Even with attribution tools, there is an acknowledgment that the data might not always be perfect. Marketers should be aware of the potential discrepancies and the "gray data" that might not be crystal clear.
+
+- **Cost and Necessity**: The discussion touches on the point that these tools can become expensive, and companies should weigh the cost against the benefits they provide. It's suggested that mobile attribution tools are not crucial at the early stages of app marketing, especially when operating on a tight budget or a single advertising channel.
+
+The lecture emphasizes the importance of attribution but also brings to light the trade-offs between the costs, benefits, and the point in the business lifecycle where such tools become truly beneficial. The key takeaway is to carefully consider when and how to integrate mobile attribution into your marketing strategy.
+
+---
+
+# My Four-Step-Testing-System
+
+- When you start advertising, there is a thousand different decisions you could be making. There's lots of different channels, lots of different pictures or videos, different types of content. You could be trying lots of different options of who you target, what kind of countries, what kind of age groups. It's just on and on. The problem is, if you don't have a clear list of priorities, if you don't know what is important and what is not important, you're going to waste a lot of time and money.
+- Most platforms require $10,000 spending for optimization
+
+1. Channel
+   - User behavior is different
+   - Go to where your users are
+2. Audience, Targeting Number
+3. The creative
+   - Test different types of contents
+4. Conversion Optimization
+   - 1% improvement
+
+**Summary of Lecture on Four-Step Testing System for Paid Advertising:**
+
+1. **Channel Priority**: The platform where you choose to run your ads is crucial. The creative could be exceptional, but if the channel doesn't align with where your target audience spends their time, the campaign will likely fail. You must select the right platform based on where your core users are active.
+
+2. **Audience and Targeting**: Once the channel is picked, the next priority is targeting the correct audience. Gender, age, interests, location - these are all critical factors in ensuring your ads are served to the most receptive audience possible.
+
+3. **Creative Considerations**: The actual ad content, whether video, audio, or images, comes next. After establishing the right channel and audience, now you can focus on testing different creative elements. Each channel may require different forms of content for optimal engagement.
+
+4. **Conversion Optimization**: The final priority involves the finer details that can nudge conversion rates higher, like tweaking button colors or ad copy. This step only becomes relevant after the first three priorities are adequately addressed.
+
+**Key Takeaways:**
+
+- **Start With Broad Decisions**: Begin with overarching choices about channels and audience before diving into creative and minor optimizations.
+- **Avoid Wasting Resources**: Concentrating on creative details or conversion tactics too early can lead to inefficient use of time and budget.
+
+- **Systematic Approach**: Adopting this step-by-step approach can help streamline the ad testing process, leading to more effective campaigns and potentially saving substantial amounts of money.
+
+- **Building on Success**: Once you've found a strategy that works on one channel, you can then expand to others, but always start by solidifying your position on the initial platform of choice.
+
+This systematic approach to testing in paid advertising aims to reduce waste and increase the chances of running successful ad campaigns. Remember to start from a high-level strategy and work your way down to the specifics.
+
+---
+
+# How to harness the advertising power of Google (Android & iOS)
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501356#overview
+
+- App Install
+- Select Location Manually
+  - All cooutnries BIG NO NO
+  - Target Specific Countries
+- One Week Campaign For Test
+- Target cost per install
+  - maximum expense
+  - $1 per a download
+- The more images and videos and text you add, the longer it is going to take to find the optimal solution
+
+---
+
+# Easiest advertising tool: Search Ads(iOS)
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501364#overview
+
+**Advanced Version**
+
+- Target Specific Keywords
+- Different Asset
+
+**Basic Search Ads**
+
+1. Deselect All Countries
+2. Target only your targeted countries
+3. Set Monthly Budget
+
+=> Recommended if you are just getting started
+
+**Advanced Seacrch Ads**
+
+1.  Product Placements
+
+- Today Tab
+- Search Tab => Recommended
+- Search Results => Highly Recommended
+- Product Pages
+
+=> Try testing for all four placements
+
+2. Target only your targeted countries
+
+3. Set Daily Budget
+
+- $20
+
+4. Schedule
+
+- Always Set End Date
+
+5. Max CPT Bid => Ad Group Settings
+
+- How much you are willing to pay for `tap` => but it doesn't mean they will install your app
+- $0.20
+
+6. Set Ad Group Settings End Date
+
+- It's different from your campaign.
+- Ad group can be independantly terminated
+
+7. Audience
+
+- All Eligible Users or Choose Spcific Audiences
+  - Devices
+  - All Users, New Users, Users of my other apps, Returning Users
+    - New Users
+  - Demographics
+    - Gender
+    - Age
+
+---
+
+# How billion-dollar companies are created through Facebook & Instagram ads
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501368#overview
+
+- You must create a separate ad account even if you have facebook or instagram account.
+- Facebook ads can be really cheap if your product is really good
+
+**Kind of Ads**
+
+- Awareness
+- Traffic => Highly Recommedend for Mobile App
+  - Good for Website
+  - Much Cheaper
+- Engagement
+- Leads
+- App Promotion => Recommedend for Mobile App
+- Sales
+
+=> You can try testing for traffic & app promotion
+
+**App Promotion Campagin Types**
+
+- Advantage+ App Campaigns => Recommendend
+- App Ads
+
+**Layers**
+
+- Campagin
+- Ad Groups
+- Ad
+
+**Campaign Level**
+
+- Choose these options
+  - Buying type => Auction
+  - Advantage+ App Campaigns
+
+**Ad Set Level**
+
+- App Store
+- Select Country
+- Optimization Goal => App Installs
+- Set a bid cap => $1
+- Daily Budget => $10
+- Schedule => One Week
+
+**Ad Level**
+
+- Link your facebook page and instagram account
+- Creative Source
+  - Manual Upload
+- Format
+  - Singme Image or Video
+  - Format is very important for your ad price
+- Recommended CTA
+  - Learn More
+  - (Install Now is expensive)
+
+---
+
+# Become an industry leader on TikTok
+
+- Three Layers
+  - Campaign
+    - Ad Sets
+      - Ads
+- Conversions are not so good
+- Work directly with influencers
+  - Influencers create your posts
+  - You can boost it
+
+---
+
+# Bonus Interview: Paid Marketing vs Organic Growth
+
+- Reflectly got 40,000 emails on the landing page in the first couple of weeks
+- Not monetized for 6 months
+- Micro-influencers at Scale
+  - Pay tiktokers to create videos
+  - Zero Creative Judgement
+  - Poor Quality, looking like a content wins
+  - Run everything
+  - Contents they deliver is the king, super valuable
+- If you have time, post contents yourself, if you have money, run ads
+- The product should be good. People waste their time and money on the product that's not working
+- You have 1,000 questions to answer and problems to solve. Focus on building something great
+- Reflectly is a ridiculolusly simple product. First two years, there was only one feature.
+  - You just go in and you write how you feel and you add some emojis.
+  - App doesn't have to be complicated
+- If you want to build an app in a category, try to talk to as many people as possible who are a few steps ahead of you
+  - Find any app, find their support, reach out 50 of them. Try to contact.
+
+**Pre-orders**
+
+- Pre-orders, 6 months (180 days)
+- A huge advantage
+
+**Important Factors**
+
+1. Make sure that what we're building resonates with the community
+   - Make sure that we know that whatever we are building should have a potential to make money
+   - If there are other apps that generate revenue but they are not very good, make a better product
+2. Pre-order
+   - Get traffics from the beginning
+
+**Create Community**
+
+- Create Community for B to C
+- Build a community that wants a specific thing.
+- Email List
+- Tiktok
+- Instagram
+- Facebook Community Page
+
+**Important Things**
+
+- Pattern
+- Choosing the right place
+  - Right category
+  - Right product
+  - How to reach people
+- Features don't actually matter
+- Do one thing great
+
+**Landing Page Strategy**
+
+- Validate your idea through Landing Pages
+- Created Three Different Ideas with Landing Pages (Only Landing Pages)
+- Reflectly stood out
+
+**Baseline Metrics**
+
+- Are you making money more than you spend it?
+- If your ads are not making any money, look at the funnels
+  - Platform Problems?
+  - Asset Problems?
+
+**Budget**
+
+- No money at all => build products
+- $1,000
+  - Start Apple Search Ad
+  - Check if your app make $1,000
+- Start with $10 at the beginning for each campaign
+- How much are you willing to risk for your idea?
+
+---
+
+# Acquire Companies
+
+- As you start to scale and go up, you'll hit a celing of how much money you can spend profitably
+- Acquire other apps that have really good traction on the app store
+  - Different Ways to acquire users
+- Factors to consider
+  - Organic Ranking of the app
+  - Motivation app, which makes $600,000 a month => Super Product
+  - Look for apps that have really high significant ranking for keywords that matter
+  - Reach out people, a lot of outreach
+
+---
+
+# Micro Influencers
+
+- 5 to 20,000 followers on Instagram
+- Distribution is not that worth it
+  - What we pay for is the creative content
+  - Run it on Facebook ads or Instagram ads
+
+---
