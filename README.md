@@ -228,6 +228,74 @@ https://developer.apple.com/contact/app-store/promote/
 - Hire agency => Press something you pay for
 - Hard grind yourself. Message 1,000 reporters
 
+### How to get low-cost, top-performing content for your ads
+
+https://www.youtube.com/watch?v=NrtU_R27vUI
+
+- 20,000 ~ 30,000 installs everyday
+
+**Reflectly**
+
+- Journal App
+- $35 to $50 subscription price
+
+### 6 User acquisition insights
+
+1. Influencer ads vs. produced ads
+
+   - Influencer ads outperformed
+     - Micro Influencers $20 to run an ad
+     - But not always!
+   - West vs East
+     - West, Influencer ads worked better
+     - East (Asia), produced ads worked better
+   - Own voice
+   - Price
+
+2. Big influencers vs micro at scale
+
+   - Big Influencers
+     - $1,000 with 100,000 followers
+   - Micro Influencers
+     - $20
+   - Mirco Influencers won.
+     - 334% more installs
+
+![img](./influencer.png)
+
+3. Context
+
+   - US
+   - UK
+   - AU
+   - NL
+
+4. No creative judgment
+
+   - Quantity over Quality
+   - Bad filters & lighting
+   - Low Quality
+   - Baby crying the background
+
+![img2](./judgement.png)
+
+5. Attribute Revenue
+
+   - viral on IG
+   - Tons of installs
+   - Low Revenue
+
+![img3](./revenue.png)
+
+6. Scaling - building the machine
+
+   1. Outsourced outreach
+   2. Outsourced suggestions
+   3. Outsourced editing => Video Editing
+   4. In-House campaigns
+
+![img4](./scaling.png)
+
 ---
 
 # Differences between SEO and ASO
@@ -2079,3 +2147,114 @@ Press and PR can still play a valuable role in your overall business strategy, e
 **Encouragement and Expectation Management:**
 
 As you wrap up the free marketing section, feel invigorated by the opportunities and strategies discussed. Approach the next section on paid marketing with optimism and the understanding that with investment, you can amplify your growth while maintaining profitability. Keep in mind that success in marketing, especially in the crowded app market, is a marathon, not a sprint. 🚀📈🎯
+
+---
+
+# Paid Advertising Introduction
+
+**Introduction to Paid Advertising and Marketing:**
+
+1. **Accessible Budgeting**: You don’t need to have a large budget to start with paid advertising. Even with a modest amount of money, there are strategies to begin expanding your user base effectively.
+
+2. **Understanding Attribution**: Knowing which ads lead to app installs or actions within your app (attribution) is crucial. It helps in understanding the return on investment (ROI) of your ad spend.
+
+3. **Practical Tutorials**: The upcoming tutorials will provide hands-on guidance through various advertising platforms, giving you actionable skills to apply to your campaigns.
+
+4. **Leveraging Experience**: Drawing from extensive experience as a Chief Marketing Officer, the upcoming lessons will distill strategies that have been proven to secure millions of app installs.
+
+5. **Platform Coverage**: Expect to explore various platforms including Apple Search Ads, Google Mobile Ads, Facebook Ads, and TikTok, which offer diverse audiences and targeting capabilities.
+
+**What to Expect in This Section:**
+
+1. **Step-by-Step Guidance**: You’ll learn how to set up campaigns, target the right audiences, and optimize for performance across different ad platforms.
+2. **Budget Management**: Discover how to allocate and adjust your budget to maximize your ad spend and get the best results.
+
+3. **Tracking Performance**: Gain insights into tracking and measuring the effectiveness of your ads, which will inform decisions on scaling or pivoting your strategies.
+
+4. **Creative Content for Ads**: Learn how to create compelling ad content that resonates with your target audience, driving higher engagement and conversion rates.
+
+5. **Testing and Optimization**: Find out how to run tests to see what works best for your app and audience, allowing for continuous improvement of your ads.
+
+**Getting Ready for Paid Marketing:**
+
+1. **Preparation**: Gather insights on your current app users, understand your unique selling proposition (USP), and what sets your app apart in the market.
+
+2. **Marketing Goals**: Clearly define what you aim to achieve with paid marketing – whether it's increasing app installs, enhancing brand visibility, or driving in-app purchases.
+
+3. **Creative Assets**: Prepare various creative assets like images, videos, and ad copy. Have a selection that can be tested across different platforms to find what performs best.
+
+4. **Learning Mindset**: Enter this section with the willingness to learn and adapt. Paid marketing requires both analytical and creative skills, and the landscape is always evolving.
+
+**Encouragement for the Journey:**
+
+As you progress into paid advertising, remember that every big player in the app market has started with the basics. With diligent learning and application of the upcoming lessons, you can significantly boost your app’s presence in the marketplace. Stay focused, be ready to learn from the data, and get set to see your app climb up the ranks! 🚀📊📱
+
+---
+
+# How to get low-cost, top-performing content for your ads
+
+https://www.youtube.com/watch?v=NrtU_R27vUI
+
+- 20,000 ~ 30,000 installs everyday
+
+### Reflectly
+
+- Journal App
+- $35 to $50 subscription price
+
+## 6 User acquisition insights
+
+1. Influencer ads vs. produced ads
+
+   - Influencer ads outperformed
+     - Micro Influencers $20 to run an ad
+     - But not always!
+   - West vs East
+     - West, Influencer ads worked better
+     - East (Asia), produced ads worked better
+   - Own voice
+   - Price
+
+2. Big influencers vs micro at scale
+
+   - Big Influencers
+     - $1,000 with 100,000 followers
+   - Micro Influencers
+     - $20
+   - Mirco Influencers won.
+     - 334% more installs
+
+![img](./influencer.png)
+
+3. Context
+
+   - US
+   - UK
+   - AU
+   - NL
+
+4. No creative judgment
+
+   - Quantity over Quality
+   - Bad filters & lighting
+   - Low Quality
+   - Baby crying the background
+
+![img2](./judgement.png)
+
+5. Attribute Revenue
+
+   - viral on IG
+   - Tons of installs
+   - Low Revenue
+
+![img3](./revenue.png)
+
+6. Scaling - building the machine
+
+   1. Outsourced outreach
+   2. Outsourced suggestions
+   3. Outsourced editing => Video Editing
+   4. In-House campaigns
+
+![img4](./scaling.png)
