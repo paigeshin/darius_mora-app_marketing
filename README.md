@@ -29,6 +29,7 @@ https://www.dariusmora.com/
 - UI & UX: Guide users in the interactive ways
 - UI & UX: Don't make people read manuals
 - UI & UX: Introduce Information Gradually
+- Retention is higher on the social network
 
 ## Summary
 
@@ -2845,3 +2846,55 @@ https://www.udemy.com/course/app_marketing/learn/lecture/36501368#overview
   - Run it on Facebook ads or Instagram ads
 
 ---
+
+# Tiktok Marketing
+
+**Three Parts Of Tiktok**
+
+1. Paid ($0.5 million spent)
+2. Organic
+3. Influencer
+
+**Targeting**
+
+- Use Web Conversions and App Installs
+- Lookalikes are not strong, try categories (view-based-algorithm)
+  - Somebody watches videos off fitness exercises, then teh ads will be displayed to those people.
+- Facebook/Instagram scale with lower CPI/CPA
+- Older audience (quite strong)
+
+**Creative**
+
+- Reuse creatives from IG/Snap at the beginning
+- Music matters, even in the background
+- Showing the phone on the camera outperforms influencers or animations
+- Text overlay can help
+- Hopping on trends will increase CTR
+
+https://www.udemy.com/course/app_marketing/learn/lecture/36501316?start=450#overview => Well Performing Ads Example, 6:57
+
+**Organic**
+
+- 30k followers in 2 months
+- Post 3-5x / day, quantity over quality (it's not Instagram)
+- Consistency is rewareded
+- Use VPN to target a different market
+- Apps are downloaded from the profile without leaving Tiktok
+- Videos without words or language can go viral globally
+- Use trending music and copy trends
+- Personal, not corporate
+
+**Influencers**
+
+- Cheaper than Instagram or Youtube
+- Hit or miss because impressions are not based on number of followers
+- Micro at scale = great adds of virality
+- Official Creator Marketplace allows you to fund organic video, https://creatormarketplace.tiktok.com/
+- First campaign with @alxojdea(6mil + followers)
+  - Low CPM
+  - High CPI / CPA
+  - Should show the product in the video when working with big influencers
+
+**Tips**
+
+- Get relevant hashtags
