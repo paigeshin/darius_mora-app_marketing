@@ -640,6 +640,57 @@ https://www.udemy.com/course/app_marketing/learn/lecture/36501316?start=450#over
 
 These differences emphasize the unique considerations needed for optimizing website content (SEO) versus app store content (ASO). The subsequent video will dive into the foundational elements of ASO.
 
+### AMA (Ask me anything)
+
+- Multiple price policies can make another offer more attractive
+- Cheap Marketing => Micro Influencers at scale
+  - 5 ~ 50,000 followers
+  - Run the contents, (Content creation machine)
+  - You must understand your target audiences to find micro-influencers that match your target audience
+  - Whatever your micro influencers, use their words into a title, a description for the ads
+    - It resonates with your taget group
+- Onboarding Experience should be really great
+  - Nobody wants tutorial
+  - Getting them to use your app
+  - Actual Experience is important
+- Start with easy things
+  - Search Ads for Apple
+  - UAC for Google
+- Advanced
+  - Facebook
+  - Tiktok
+- Verification people loved the product
+  - Retention
+  - Churn out Subscription Rate
+  - How many people are converted
+  - How many people decided to buy
+  - How many people stick around
+  - How was the month to month retention and the reoccurring purchases
+  - **Once we saw that was working well, only then we started to put money beyond user acquision**
+  - **Have a great product is the key**
+  - A lot of companies that don't have good retention and don't have good conversions, don't have the basic model working, but they put money into user acqusition. This is a big mistake to be avoided.
+- Creative Testing
+  - Facebook: You need 8,000 impressions to determine if the price is stable
+  - 2,000 ~ 3,000 impressions, the price won't change a lot
+  - It's pretty quick to test creatives
+  - **After 2,000 ~ 3,000 impressions, you can see whether the video is doing well**
+  - If it's too expensive after 3,000 impressions, turn off your ads right away
+  - You can spend $10 to test your creatives. If your creatives work well, put more money
+  - You need to go through 1,000 optimization events
+- Pre-install
+  - People can download your app before a month
+
+### Facebook Creatives Testings
+
+- Facebook Creative Testing
+  - Facebook: You need 8,000 impressions to determine if the price is stable
+  - 2,000 ~ 3,000 impressions, the price won't change a lot
+  - It's pretty quick to test creatives
+  - **After 2,000 ~ 3,000 impressions, you can see whether the video is doing well**
+  - If it's too expensive after 3,000 impressions, turn off your ads right away
+  - You can spend $10 to test your creatives. If your creatives work well, put more money
+  - You need to go through 1,000 optimization events
+
 ---
 
 # Fundamental Pillars of ASO (ASL)
@@ -2960,3 +3011,68 @@ https://www.udemy.com/course/app_marketing/learn/lecture/36501316?start=450#over
 - 1pm, 2pm, amrican time => find your best time to post
 
 ---
+
+# AMA (Ask me anything)
+
+- Multiple price policies can make another offer more attractive
+- Cheap Marketing => Micro Influencers at scale
+  - 5 ~ 50,000 followers
+  - Run the contents, (Content creation machine)
+  - You must understand your target audiences to find micro-influencers that match your target audience
+  - Whatever your micro influencers, use their words into a title, a description for the ads
+    - It resonates with your taget group
+- Onboarding Experience should be really great
+  - Nobody wants tutorial
+  - Getting them to use your app
+  - Actual Experience is important
+- Start with easy things
+  - Search Ads for Apple
+  - UAC for Google
+- Advanced
+  - Facebook
+  - Tiktok
+- Verification people loved the product
+  - Retention
+  - Churn out Subscription Rate
+  - How many people are converted
+  - How many people decided to buy
+  - How many people stick around
+  - How was the month to month retention and the reoccurring purchases
+  - **Once we saw that was working well, only then we started to put money beyond user acquision**
+  - **Have a great product is the key**
+  - A lot of companies that don't have good retention and don't have good conversions, don't have the basic model working, but they put money into user acqusition. This is a big mistake to be avoided.
+- Creative Testing
+  - Facebook: You need 8,000 impressions to determine if the price is stable
+  - 2,000 ~ 3,000 impressions, the price won't change a lot
+  - It's pretty quick to test creatives
+  - **After 2,000 ~ 3,000 impressions, you can see whether the video is doing well**
+  - If it's too expensive after 3,000 impressions, turn off your ads right away
+  - You can spend $10 to test your creatives. If your creatives work well, put more money
+  - You need to go through 1,000 optimization events
+- Pre-install
+  - People can download your app before a month
+
+---
+
+# Facebook Creatives Testings
+
+- Facebook Creative Testing
+  - Facebook: You need 8,000 impressions to determine if the price is stable
+  - 2,000 ~ 3,000 impressions, the price won't change a lot
+  - It's pretty quick to test creatives
+  - **After 2,000 ~ 3,000 impressions, you can see whether the video is doing well**
+  - If it's too expensive after 3,000 impressions, turn off your ads right away
+  - You can spend $10 to test your creatives. If your creatives work well, put more money
+  - You need to go through 1,000 optimization events
+
+---
+
+# Interview with AppMasters
+
+- Google Play Short Description, Put social proof.
+  - Great for Conversion Rate
+  - Some apps saw 20% improvement
+- Read Reviews
+- Always talk about the benefits users can take
+- Tutorial should not be burdened
+- Bundle Id is also index on AppStore Search Engine!
